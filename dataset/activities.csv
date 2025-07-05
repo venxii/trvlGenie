@@ -1,0 +1,82 @@
+id,city,name,tag,price,lat,lng
+1,Goa,Suzy’s Wreck Scuba Dive,Adventure,3500,15.35029,73.78002
+2,Goa,Davy Jones Locker Dive,Adventure,3200,15.35029,73.78002
+3,Goa,Bounty Bay Snorkeling,Nature,1800,15.35029,73.78002
+4,Goa,Sail Rock Drift Dive,Adventure,3300,15.35029,73.78002
+5,Goa,Secret Reef Dive,Adventure,3000,15.35029,73.78002
+6,Goa,Chapora Fort Trek,Heritage,0,15.62188,73.70329
+7,Goa,Dudhsagar Falls Trek,Nature,500,15.31419,74.31319
+8,Goa,Tambdi Surla Temple Visit,Heritage,50,15.30730,74.13675
+9,Goa,Kayaking in Mhadei River,Adventure,1000,15.41600,74.14400
+10,Goa,Mangrove Safari (Chapora),Nature,800,15.60200,73.70000
+11,Goa,Parasailing at Candolim Beach,Adventure,2500,15.51545,73.76840
+12,Goa,Beach Volleyball Candolim,Sports,0,15.51545,73.76840
+13,Goa,Stand-up Paddleboarding Baga,Leisure,1200,15.54820,73.75150
+14,Goa,Sunset Cruise Mandovi River,Leisure,1200,15.49678,73.82783
+15,Goa,Fontainhas Heritage Walk,Cultural,500,15.49900,73.82900
+16,Goa,Mapusa Friday Market,Shopping,0,15.57150,73.83620
+17,Goa,Old Goa Church Tour,Heritage,300,15.50340,73.91355
+18,Goa,Silent Disco Palolem,Nightlife,1500,15.04220,73.93720
+19,Goa,Spice Plantation Tour (Sahakari),Nature,600,15.30000,74.11000
+20,Goa,Cinephile Club Film Night,Cultural,300,15.50000,73.82500
+21,Munnar,Lockhart Tea Museum Tour,Cultural,150,10.09403,77.05059
+22,Munnar,Lockhart Tea Factory Walk,Nature,200,10.09403,77.05059
+23,Munnar,Lockhart Tea Park Valley Trek,Nature,250,10.09450,77.05080
+24,Munnar,KDHP Tea Museum Visit,Cultural,100,10.09300,77.04800
+25,Munnar,Tea Plantation Trek (Lakshmi Hills),Adventure,300,10.10000,77.06000
+26,Munnar,Munnar Tea Trail & Tasting,Nature,300,10.09403,77.05059
+27,Munnar,Eravikulam National Park Safari,Wildlife,200,10.13551,77.05967
+28,Munnar,Anamudi Peak Trekking,Adventure,400,10.13500,77.05900
+29,Munnar,Lakkom Waterfalls Visit,Nature,150,10.10500,77.05500
+30,Munnar,Mattupetty Dam Boating,Leisure,100,10.10500,77.07000
+31,Munnar,Echo Point Visit,Scenic,50,10.10400,77.07100
+32,Munnar,Top Station Sunrise Tour,Scenic,0,10.11200,77.07000
+33,Munnar,Attukad Waterfalls Trek,Nature,150,10.12100,77.06000
+34,Munnar,Kathakali Show at Punarjani,Cultural,200,10.08900,77.06000
+35,Munnar,Kalaripayattu Performance,Cultural,200,10.08900,77.06000
+36,Munnar,Carmelagiri Elephant Park Ride,Adventure,800,10.12000,77.06000
+37,Munnar,Herbal & Spice Garden Visit,Nature,200,10.09350,77.05500
+38,Munnar,Kundala Lake Kayaking,Adventure,300,10.12600,77.00600
+39,Munnar,Tea & Cardamom Estate Walk,Nature,250,10.09000,77.07000
+40,Munnar,Munnar Ghats Hike,Adventure,0,10.11000,77.06500
+41,Jaipur,Amer Fort Tour,Heritage,100,26.985901,75.850700
+42,Jaipur,Nahargarh Fort Visit,Heritage,0,26.988000,75.809000
+43,Jaipur,Jaigarh Fort Exploration,Heritage,0,26.988500,75.855000
+44,Jaipur,Hawa Mahal Visit,Heritage,50,26.921000,75.822660
+45,Jaipur,Jantar Mantar Observatory,Educational,80,26.924900,75.824620
+46,Jaipur,City Palace Tour,Cultural,120,26.925000,75.823000
+47,Jaipur,Sawai Man Singh Stadium Match,Sports,500,26.914500,75.819900
+48,Jaipur,Albert Hall Museum Visit,Heritage,40,26.915000,75.820000
+49,Jaipur,Galta Ji Temple Visit,Spiritual,0,26.926500,75.874000
+50,Jaipur,Shopping at Bapu Bazaar,Shopping,0,26.916700,75.787300
+51,Jaipur,Shopping at Johari Bazaar,Shopping,0,26.922000,75.824000
+52,Jaipur,Camel Ride at Amer Fort,Adventure,800,26.985901,75.850700
+53,Jaipur,Rajasthani Folk Dance Dinner,Cultural,300,26.925000,75.823000
+54,Jaipur,Hot Air Balloon Ride,Adventure,5000,26.875000,75.813000
+55,Jaipur,Elephant Sanctuary Visit,Wildlife,1500,26.990000,75.840000
+56,Jaipur,Chokhi Dhani Cultural Village,Entertainment,700,26.907000,75.823000
+57,Jaipur,Mount Abhaneri Day Trip,Heritage,1500,27.295000,76.435000
+58,Jaipur,Water Palace Jal Mahal,Scenic,0,26.951000,75.825000
+59,Jaipur,Central Park Morning Walk,Leisure,0,26.919000,75.803000
+60,Jaipur,Puppet Show & Handicrafts,Cultural,200,26.925000,75.823500
+61,Mumbai,Gateway of India Visit,Heritage,0,18.922064,72.834641
+62,Mumbai,Elephanta Caves Ferry Trip,Heritage,200,18.963900,72.935000
+63,Mumbai,Marine Drive Evening Walk,Leisure,0,18.943000,72.823000
+64,Mumbai,Worli Fort Visit,Heritage,0,19.023800,72.816600
+65,Mumbai,Siddhivinayak Temple Visit,Cultural,0,19.017220,72.830180
+66,Mumbai,Chhatrapati Shivaji Maharaj Terminus Tour,Heritage,0,18.939820,72.835400
+67,Mumbai,Bandra–Worli Sea Link Drive,Scenic,0,19.036400,72.817200
+68,Mumbai,Bandra Fort Sundowner,Heritage,0,19.054000,72.825000
+69,Mumbai,Elephanta Light & Sound Show,Entertainment,300,18.963900,72.935000
+70,Mumbai,Chor Bazaar Shopping,Shopping,0,18.478110,72.833030
+71,Mumbai,Colaba Causeway Shopping,Shopping,0,18.912100,72.829100
+72,Mumbai,Prince of Wales Museum Visit,Heritage,250,18.921900,72.833500
+73,Mumbai,Dolphin Lighthouse Photo Tour,Leisure,0,18.920000,72.840000
+74,Mumbai,Sunk Rock Lighthouse Swim,Adventure,0,18.920000,72.840000
+75,Mumbai,Juhu Beach Horse Ride,Leisure,100,19.098000,72.826300
+76,Mumbai,Aeroadview Seaplane Ride,Adventure,5000,18.922000,72.834600
+77,Mumbai,Asiatic Society Library Visit,Educational,100,18.921500,72.830000
+78,Mumbai,Global Vipassana Pagoda Meditation,Wellness,0,19.205000,72.841000
+79,Mumbai,Film City Tour,Entertainment,1500,19.249000,72.861000
+80,Mumbai,Kala Ghoda Art Precinct Walk,Cultural,0,18.913000,72.831000
+81,Mumbai,Street Food Walk in Khau Galli,Food,0,18.530000,72.847000

@@ -1,0 +1,738 @@
+id,name,place,location,landmark,ratings,info,price,tag,accessibility,occupancy,description,reviews,lat,lng,tax
+1,Park Inn by Radisson Goa Candolim,Goa,Candolim,| 7 minutes walk to Candolim Beach,3.8,"['Gym', 'Swimming Pool']","₹6,192 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.51807,73.76259,
+2,Elements by Rosetta,Goa,South Goa,| 1.7 km drive to Varca Beach,4.9,"['Gym', 'Swimming Pool']","₹13,494 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedAvailINR3500hotelvoucherredeemableonstayof3daysormore20%offonsessionofSpa,,44.4264,8.91519,
+3,Hotel Jyoti Plaza,Goa,Margao,null,4.1,"['Bar', 'Jacuzzi']","₹2,092 per night",null,null,null,Breakfastavailableatextracharges,,44.4264,8.91519,
+4,Novotel Goa Resort and Spa Candolim,Goa,Candolim,| 4 minutes walk to Candolim Beach,4.1,"['Spa', 'Gym']","₹11,124 per night",null,null,null,"CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableComeswith2outdoorpools,Jacuzzi&TurkishHammam",,15.51807,73.76259,
+5,Resorte Marinha Dourada,Goa,Arpora,| 2.2 km drive to Baga Beach,3.9,"['Swimming Pool', 'Beds in a Hostel']","₹7,090 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+6,Panjim City Dorms,Goa,Panjim,| 8 minutes walk to Deltin Royale,3.8,"['| 2 Dorm Beds', 'Lounge']",₹872 per night,null,Beds in a Hostel,| 2 Dorm Beds,"Idyllichostelfeaturingalounge,diningarea&freeWi-Fi",,44.4264,8.91519,
+7,Island House,Goa,Tiswadi,null,4.3,"['Caretaker', '| 1 Bedroom | Sleeps 2 guests']","₹4,932 per night",Like a 4 Star,Room in a Homestay,| 1 Bedroom | Sleeps 2 guests,"CoupleFriendlyBreakfastIncludedHomestayfeaturingapool,restaurant&freeparking",,44.4264,8.91519,
+8,"Fortune Resort Benaulim, Goa",Goa,Benaulim,| 4-5 minutes walk from Benaulim Beach,4.1,"['Swimming Pool', 'Caretaker']","₹17,640 per night",null,null,null,CoupleFriendlyBreakfastIncluded15%DiscountOnF&BServices,,15.27004,73.93461,
+9,Alekhya Suites,Goa,Panjim,| 1.1 km drive to Miramar Beach,3.5,"['Gym', 'Swimming Pool']","₹3,325 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+10,Resort Lagoa Azul,Goa,Arpora,| 2.8 km drive to Baga Beach,4,"['Spa', 'Swimming Pool']","₹4,128 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+11,Downtown Anjuna - The Party Hostel,Goa,Anjuna,| 1.6 km drive to Anjuna Beach,4.4,"['Gym', 'Swimming Pool']","₹2,099 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,44.4264,8.91519,
+12,I Love Bell Bottoms Vagator Goa,Goa,Vagator,| 1.3 km drive to Vagator Beach,4.2,"['Beds in a Hostel', '| 2 Dorm Beds']","₹6,123 per night",null,null,null,"CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableEnjoyHappyHourswith2+1offeronAlcoholicDrinks,SoftBeverages",,15.59766,73.74496,
+13,Grand Vatika Resort,Goa,Arambol,| 2.7 km drive to Mandrem Beach,4.4,"['Swimming Pool', 'Kitchenette']","₹3,274 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+14,Whoopers Hostel Palolem | Room & Dorms,Goa,Palolem,| 2 minutes walk to Palolem Beach,3.9,"['Swimming Pool', 'Gym']","₹1,292 per night",null,Beds in a Hostel,| 2 Dorm Beds,"CoupleFriendlyFunhostelfeaturingacafe,powerbackup,kitchen&Wi-Fi",,,,
+15,Fortune Select Candolim-Member ITC's Hotel Group,Goa,Candolim,| 1.2 km drive to Candolim Beach,4.8,"['Gym', 'Swimming Pool']","₹8,549 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+16,goSTOPS Goa Baga,Goa,Baga,| 1.7 km drive to Baga Beach,4.1,"['Beds in a Hostel', '| 2 Dorm Beds']","₹1,671 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,"Vibranthostelofferingapool,playarea&lounge",,15.56517,73.75517,
+17,Hotel Gautam (A Vegetarian Hotel),Goa,Povorim,null,5,"['Caretaker', 'Restaurant']","₹3,612 per night",null,null,null,FreeCancellationBook@₹0available,,44.4264,8.91519,
+18,All Seasons Guest House | Rooms & Dorms,Goa,Margao,null,4.4,"['Spa', 'Swimming Pool']","₹2,145 per night",null,Room in a Hostel,| 1 Bedroom | Sleeps 5 guests,CoupleFriendlyBreakfastavailableatextracharges,,,,
+19,Rosetum Anjuna,Goa,Anjuna,| 8 minutes walk to Anjuna Beach,3.9,"['Beds in a Hostel', '| 2 Dorm Beds']","₹2,989 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextracharges,,15.585623,73.7439931,
+20,The Lalit Golf & Spa Resort,Goa,Palolem,| 6 minutes walk to Rajbag Beach,3.9,"['Swimming Pool', 'Living Room']","₹19,304 per night",null,null,null,CoupleFriendlyBreakfastIncludedsessionofSpa,,14.9899652,74.039823,
+21,The Park Calangute,Goa,Calangute,| 2-3 minutes walk from Calangute Beach,4,"['Indoor Games', '| 1 Bedroom | Sleeps 5 guests']","₹13,660 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.5337235,73.7597747,
+22,Yu hotel,Goa,Candolim,| 8 minutes walk to Candolim Beach,4.3,"['Caretaker', 'Luggage Storage']","₹8,703 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesAvail20%discountonfood&beverages,,44.4264,8.91519,
+23,"Hilton Goa Resort,Candolim",Goa,Candolim,Ends  in  18h:  03m:  41s,4.6,"['Gym', 'Swimming Pool']","₹13,088 per night",null,null,null,CoupleFriendlyBreakfastIncludedGet1freebeerbucketonceduringthestayatthein-houseeatery@Saipe,,15.5201373,73.7952488,
+24,Passions de Goa,Goa,Anjuna,null,3.8,"['Gym', 'Private Beach']","₹2,325 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5726356,73.7478093,
+25,The Tanisi,Goa,Candolim,| 3-4 minutes walk from Anjuna Beach,3.8,"['Gym', 'Swimming Pool']","₹8,146 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableGuaranteed20%DiscountonHi-Tea/Buffet/Drinks/Brunch/Bakery/Cake,,44.4264,8.91519,
+26,La Vaiencia beach resort,Goa,Morjim,| 5 minutes walk to Candolim Beach,3.7,"['Spa', 'Gym']","₹3,408 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.6191097,73.7350426,
+27,BloomSuites | Calangute,Goa,Calangute,| 3 minutes walk to Morjim Beach,4.1,"['Swimming Pool', 'Swimming Pool']","₹6,900 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.5439,73.7553,
+28,Ivy Retreat Apartments,Goa,Baga,| 4-5 minutes walk from Calangute Beach,4,"['Jacuzzi', 'Swimming Pool']","₹2,843 per night",null,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,44.4264,8.91519,
+29,DoubleTree by Hilton Hotel Goa-Arpora- Baga,Goa,Arpora,| 4-5 minutes walk from Calangute Beach,4.1,"['Gym', 'Swimming Pool']","₹9,342 per night",null,null,null,CoupleFriendlyBreakfastIncludedBooknow&get20%offatFlamerestaurant,,15.5754196,73.7622311,
+30,Novotel Goa Candolim,Goa,Candolim,null,4.2,"['Swimming Pool', 'Gym']","₹12,449 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.5264943,73.7658886,
+31,"The Hosteller Goa, Old Goa",Goa,Panjim,| 4 minutes walk to Candolim Beach,4.7,"['Entire Apartment', '| 1 Bedroom | Sleeps 4 guests']","₹1,484 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,15.40927,73.78869,
+32,"Stone Wood Resort, Mandrem",Goa,North Goa,| 2.2 km drive to Basilica Of Bom Jesus,4.6,"['Housekeeping', 'Caretaker']","₹6,092 per night",null,null,null,CoupleFriendlyBreakfastIncluded20%offonsessionofSpa,,15.65337,73.72272,
+33,Baga Beach Hotel,Goa,Baga,| 8 minutes walk to Ashwem Beach,3.5,"['Gym', 'Jacuzzi']","₹1,411 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+34,XOXO Hostel,Goa,Anjuna,| 5 minutes walk to Baga Beach,3.9,"['Spa', 'Beds in a Hostel']","₹1,454 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,44.4264,8.91519,
+35,Lillywoods Zac Beach Resort,Goa,Calangute,| 2.7 km drive to Anjuna Beach,3.1,"['| 2 Dorm Beds', 'Swimming Pool']","₹4,888 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+36,Beleza By The Beach,Goa,Colva Beach,| About a minute walk to Calangute Beach,4.6,"['Indoor Games', 'Swimming Pool']","₹10,359 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+37,Bedrock Boutique Hostel,Goa,Baga,| About a minute walk to Colva Beach,3.7,"['Restaurant', 'Spa']","₹1,131 per night",null,Beds in a Hostel,| 2 Dorm Beds,,,44.4264,8.91519,
+38,"Taj Cidade de Goa Horizon, Goa",Goa,Panjim,| 4-5 minutes walk from Calangute Beach,4.8,"['Kids Play Area', 'Beds in a Hostel']","₹26,250 per night",null,null,null,BreakfastIncludedGetaTajGiftCardworthatleastINR500forF&B&Spa,,15.45754,73.8120955,
+39,SinQ Beach Resort,Goa,Calangute,| 4-5 minutes walk from Miramar Beach,4,"['| 2 Dorm Beds', 'Swimming Pool']","₹2,925 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextracharges,,15.5367716,73.7627736,
+40,Reina's Elegance,Goa,Candolim,| 6 minutes walk to Calangute Beach,3.2,"['Caretaker', 'Restaurant']","₹1,929 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,,,44.4264,8.91519,
+41,Hotel Campal,Goa,Panjim,| 8 minutes walk to Candolim Beach,3.9,"['Bar', 'Gym']","₹2,688 per night",null,null,null,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%offonInRoomFoodServicesfromSoulCurryRestaurant,Panjim",,44.4264,8.91519,
+42,"Ginger Goa, Madgaon",Goa,Margao,| 1.6 km drive to Deltin Royale,4.2,"['Swimming Pool', 'Beds in a Hostel']","₹3,824 per night",null,null,null,FreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.27501,73.95786,
+43,SinQ The Party Hotel (No Stags Allowed),Goa,Candolim,null,4.2,"['| 2 Dorm Beds', 'Living Room']","₹3,268 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextrachargesBookPartyCottageandPoolViewRoomGetFreeEntryinSinQNightClubonceduringthestayperperson,,44.4264,8.91519,
+44,Zostel Goa (Morjim),Goa,Morjim,| 10 minutes walk to Sinquerium Beach,3.9,"['Barbeque', 'Spa']","₹2,785 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,"Hostelwithapool,gamesroom,restaurant&sharedlounge",,15.40927,73.78869,
+45,"Ginger Goa, Panjim",Goa,Panjim,| 4-5 minutes walk from Morjim Beach,4.1,"['Swimming Pool', 'Swimming Pool']","₹7,244 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.4578021,73.8109218,
+46,Hotel Celi,Goa,Calangute,| 1.8 km drive to Deltin Royale,4.2,"['Jacuzzi', 'Room in an Apartment']","₹2,194 per night",null,null,null,CoupleFriendlyFreeCancellation,,44.4264,8.91519,
+47,Moustache Goa Luxuria | Private Rooms & Dorms,Goa,Vagator,| 3 minutes walk to Calangute Beach,3.9,"['| 1 Bedroom | Sleeps 3 guests', 'Housekeeping']","₹2,419 per night",null,Beds in a Hostel,| 2 Dorm Beds,,,,,
+48,Lillywoods Highland Beach Resort,Goa,Candolim,| 2.5 km drive to Vagator Beach,3,"['Free Public Parking', 'Restaurant']","₹4,687 per night",null,null,null,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%DiscountOnAirportTransfer,SubjecttoAvailability",,44.4264,8.91519,
+49,GT GOVEIA SUITES,Goa,Candolim,| 9 minutes walk to Candolim Beach,3.3,"['24-hour Room Service', 'Restaurant']","₹2,087 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges20%DiscountonF&Bservices,,44.4264,8.91519,
+50,BOB Beach House,Goa,Calangute,| 1.2 km drive to Candolim Beach,4,"['Swimming Pool', 'Restaurant']","₹1,367 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,,,44.4264,8.91519,
+51,goSTOPS PLUS Goa Vagator,Goa,Vagator,| 5 minutes walk to Calangute Beach,4,"['Beds in a Hostel', '| 2 Dorm Beds']","₹1,785 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,Rooms&dormsinahostelfeaturingapool&cafe,,15.59766,73.74496,
+52,DOWN D VILLAGE.,Goa,Candolim,null,2.7,"['Swimming Pool', 'Living Room']","₹1,216 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 6 guests,,,44.4264,8.91519,
+53,Amoravida by 7 Apple Resort (Near Mopa Airport),Goa,North Goa,| 5 minutes walk to Candolim Beach,4,"['Gym', 'Kids Play Area']","₹5,704 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+54,Shelsta Holiday Resort,Goa,Calangute Baga Road,null,3.7,"['null', 'Beds in a Hostel']","₹3,445 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+55,Shrikrishna Studio Goa | Rooms & Pool,Goa,Calangute,| 7 minutes walk to Calangute Beach,4.5,"['| 2 Dorm Beds', 'Swimming Pool']","₹2,375 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 6 guests,"CoupleFriendlyBreakfastavailableatextrachargesApartmentfeaturingapool,garden&in-houserestaurant",,,,
+56,Metropolis Business Hotel,Goa,Panjim,null,3.8,"['Pool/ Beach towels', 'Swimming Pool']","₹3,818 per night",null,null,null,"FreeCancellationBook@₹0available10%DiscountOnAirportTransfer,SubjecttoAvailability",,44.4264,8.91519,
+57,"The Golden Suites & Spa,Calangute",Goa,Calangute,| 9 minutes walk to Deltin Royale,3.6,"['Kids Play Area', 'Gym']","₹3,731 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,10.3185518,123.9003671,
+58,"Porto By Lagom,Vagator",Goa,Vagator,| 1.6 km drive to Calangute Beach,3.9,"['Swimming Pool', 'Room in an Apartment']","₹4,262 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.59766,73.74496,
+59,Jungle by sturmfrei Palolem,Goa,Palolem,| 1.5 km drive to Vagator Beach,4.1,"['| 1 Bedroom | Sleeps 3 guests', 'Swimming Pool']","₹1,960 per night",null,Beds in a Hostel,| 2 Dorm Beds,"CoupleFriendlyDormitoryfeaturingalounge,terrace&ArabianSeaviews",,15.01667,74.01667,
+60,The Center Court Resort and Spa,Goa,Varca,| About a minute walk to Palolem Beach,4.1,"['Reception', '| 2 Dorm Beds']","₹3,649 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+61,Brendons Goa,Goa,Palolem,| 1.7 km drive to Varca Beach,4.5,"['Swimming Pool', 'Bonfire']","₹4,014 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesBeachfrontpropertyfeaturingarestaurant,lawn&seaviews",,15.40927,73.78869,
+62,Mariaariose - Melody of the Sea,Goa,Bogmalo,| About a minute walk to Palolem Beach,3.1,"['Room in an Apartment', '| 1 Bedroom | Sleeps 6 guests']","₹2,800 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+63,Bloomrooms @ Calangute,Goa,Calangute,| 1.5 km drive to Bogmalo Beach,3.9,"['Reception', 'Housekeeping']","₹5,650 per night",null,null,null,CoupleFriendlyBreakfastavailableatextrachargesWelcomeDrinkonarrival,,15.5439,73.7553,
+64,"The Hosteller Bam Goa, Saligao",Goa,Bardez,| 4-5 minutes walk from Candolim Beach,5,"['Kids Play Area', 'Swimming Pool']","₹3,802 per night",Like a 4 Star,Room in a Hostel,| 1 Bedroom | Sleeps 2 guests,CoupleFriendly,,15.55359,73.79036,
+65,Antara Goa,Goa,Calangute Baga Road,null,3.9,"['Restaurant', '| 1 Bedroom | Sleeps 6 guests']","₹3,808 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.40927,73.78869,
+66,"DeAmour: A Dreamy Getaway, Near Beach",Goa,Anjuna,| 7 minutes walk to Calangute Beach,3.8,"['Shared Swimming Pool', 'Reception']","₹3,506 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,,,
+67,Riviera Hermitage,Goa,Arpora,| 1.1 km drive to Anjuna Beach,4.3,"['24-hour Room Service', 'Butler Services']","₹5,875 per night",null,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,15.5757495,73.7608792,
+68,Calangute Grande,Goa,Calangute Baga Road,null,3.7,"['Swimming Pool', 'Kids Play Area']","₹3,709 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+69,The Tubki Resort,Goa,Palolem,| 6 minutes walk to Calangute Beach,4.4,"['Swimming Pool', 'Restaurant']","₹2,603 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextracharges,,14.9976142,74.0395844,
+70,Shivam Bnb,Goa,North Goa,| 2.4 km drive to Palolem Beach,4.1,"['Beds in a Hostel', '| 2 Dorm Beds']",₹647 per night,null,Room in a Homestay,| 1 Bedroom | Sleeps 2 guests,"Poolvillafeaturingsunbeds,sprawlinglawn&caretaker",,15.6744501,73.7521117,
+71,Anjuna Beach Resort,Goa,Anjuna,null,3.6,"['Bonfire', 'Caretaker']","₹2,683 per night",null,null,null,CoupleFriendly,,15.5873966,73.7411619,
+72,Carnival De Goa - Luxury Apartment near Candolim,Goa,Candolim,| 6 minutes walk to Anjuna Beach,4.3,"['Spa', 'Swimming Pool']","₹4,082 per night",Like a 3 Star,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,"BreakfastIncludedApartmentwithapool,kitchen,livingroom,gym&parking",,15.51807,73.76259,
+73,Sera's Beach Side Hotel,Goa,Calangute,null,3.8,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹1,432 per night",null,null,null,CoupleFriendlyFreeCancellation,,44.4264,8.91519,
+74,The Hosteller Goa Candolim,Goa,Candolim,| 1-2 minutes walk from Calangute Beach,4.4,"['Housekeeping', 'Wi-Fi']","₹2,274 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,"CoupleFriendlyVibranthostelfeaturingapool,indoorgames,lounge&Wi-Fi",,15.51807,73.76259,
+75,IORA BAGA BEACH,Goa,Baga,| 10 minutes walk to Candolim Beach,3.7,"['Swimming Pool', 'Restaurant']","₹3,603 per night",null,null,null,"CoupleFriendly10%DiscountOnRoomUpgrade,SubjecttoAvailability",,44.4264,8.91519,
+76,Pappi Chulo Hostel - Vagator,Goa,Vagator,| About a minute walk to Baga Beach,3.9,"['Swimming Pool', 'Restaurant']","₹2,152 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,15.59766,73.74496,
+77,Avontade Suites | Entire Pool Villas,Goa,Anjuna,| 3-4 minutes walk from Vagator Beach,4.4,"['| 1 Bedroom | Sleeps 2 guests', 'Swimming Pool']","₹7,892 per night",Like a 3 Star,Entire Villa,| 2 Bedrooms | Sleeps 8 guests,FreeCancellationBook@₹0available,,44.4264,8.91519,
+78,Red Thread Morjim,Goa,Morjim,null,4.7,"['Caretaker', 'Restaurant']","₹13,746 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.63097,73.73903,
+79,Casa Severina,Goa,Calangute,| 2 minutes walk to Morjim Beach,4.7,"['Bar', 'Swimming Pool']","₹4,102 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.5352972,73.7616618,
+80,Craft Hostel,Goa,Anjuna,| 3-4 minutes walk from Calangute Beach,4.5,"['Water Sports', '| 1 Bedroom | Sleeps 4 guests']","₹1,798 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,15.5718987,73.7433833,
+81,Cygnett Inn Celestiial,Goa,Calangute,| 2 minutes walk to Anjuna Beach,3.3,"['Housekeeping', 'Caretaker']","₹3,603 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+82,Tranquility Cottage Resort,Goa,Baga,| 9 minutes walk to Candolim Beach,4,"['Swimming Pool', 'Restaurant']","₹3,183 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+83,"Taj Fort Aguada Resort & Spa, Goa",Goa,Candolim,| 10 minutes walk to Baga Beach,4.6,"['Gym', 'Kids Play Area']","₹38,088 per night",null,null,null,CoupleFriendlyBreakfastIncludedGetaTajGiftCardworthatleastINR500forF&B&Spa,,15.4976094,73.7670984,
+84,SinQ Beach Morjim.,Goa,Morjim,| 1-2 minutes walk from Sinquerium Beach,3.9,"['| 1 Bedroom | Sleeps 2 guests', 'Swimming Pool']","₹6,503 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBeachfrontretreatwithsea-viewroomsandpool,,15.63097,73.73903,
+85,Hard Rock Hotel Goa Calangute,Goa,Calangute,| About a minute walk to Morjim Beach,4.1,"['Kitchenette', 'Swimming Pool']","₹8,724 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.5459454,73.7667194,
+86,ibis Styles Goa Calangute - An Accor Brand,Goa,Calangute,| 1.3 km drive to Calangute Beach,4.1,"['Water Sports', '| 1 Bedroom | Sleeps 4 guests']","₹6,399 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+87,Whoopers Party Hostel Palolem,Goa,South Goa,| 10 minutes walk to Calangute Beach,4.4,"['Swimming Pool', 'Reception']","₹5,297 per night",null,Room in a Hostel,| 1 Bedroom | Sleeps 3 guests,"CoupleFriendlyHostelamidstgreenerywithacafe,bar,indoorgames&parking",,15.01667,74.01667,
+88,"The Fern Habitat, Candolim, Goa",Goa,Candolim,| 2.4 km drive to Palolem Beach,4.4,"['Spa', 'Indoor Games']","₹7,090 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableEnjoy2pintsofbeerperonceduringthestay&2+1offerduringhappyhoursfrom11:00AMto7:00PM,,15.51807,73.76259,
+89,Zense Candolim,Goa,Candolim,| 10 minutes walk to Candolim Beach,3.8,"['Beds in a Hostel', '| 2 Dorm Beds']","₹3,743 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.51807,73.76259,
+90,Blue Lagoon Resort | Room & Restaurant,Goa,Cola Beach,| 7 minutes walk to Candolim Beach,3.8,"['Swimming Pool', 'Indoor Games']","₹3,377 per night",Like a 3 Star,Room in a Beach Hut,| 1 Bedroom | Sleeps 4 guests,FreeCancellation,,,,
+91,Longuinhos Beach Resort,Goa,Colva,null,3.7,"['Water Sports', 'Restaurant']","₹7,841 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+92,Kings Villa Garden View Cottages,Goa,Palolem,| 2 minutes walk to Colva Beach,3.7,"['Beds in a Hostel', '| 2 Dorm Beds']","₹3,453 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastIncludedVillafeaturingalivingroom&alawn,,44.4264,8.91519,
+93,SinQ Prive,Goa,Candolim,| 6 minutes walk to Palolem Beach,3.8,"['Lounge', 'Barbeque']","₹4,911 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5014714,73.7722269,
+94,Casa Comforts,Goa,Vagator,| 3-4 minutes walk from Sinquerium Beach,3.3,"['| 2 Bedrooms | Sleeps 8 guests', 'Swimming Pool']","₹7,323 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+95,BunkNBrew,Goa,Palolem,| 4-5 minutes walk from Vagator Beach,4.4,"['Caretaker', 'Swimming Pool']",₹905 per night,null,Beds in a Hostel,| 2 Dorm Beds,"Hostelfeaturingakitchen,cafe,beachaccess&parking",,44.4264,8.91519,
+96,Sinon Baga Retreat - A Beach Resort,Goa,Baga,| 3-4 minutes walk from Palolem Beach,3.5,"['Kids Play Area', 'Gym']","₹7,686 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+97,Sun Park Baga,Goa,Baga,| About a minute walk to Baga Beach,3.4,"['Swimming Pool', 'Beds in a Hostel']","₹1,701 per night",null,Entire Apartment,| 1 Bedroom | Sleeps 5 guests,CoupleFriendly,,15.56517,73.75517,
+98,Hilltop Seaview Palolem Beach,Goa,Palolem,| 890 m drive to Calangute Beach,3.9,"['| 2 Dorm Beds', 'Kitchenette']","₹4,125 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyBeachfrontcottagewithalawn,on-siterestaurant&bonfire",,44.4264,8.91519,
+99,The Acacia Morjim,Goa,Morjim,| 6 minutes walk to Palolem Beach,4.1,"['Living Room', 'Swimming Pool']","₹7,210 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%OffonF&Bservices,,15.63097,73.73903,
+100,Aldeia Santa Rita,Goa,Candolim,| 6 minutes walk to Morjim Beach,4.1,"['Restaurant', 'Swimming Pool']","₹6,934 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5024843,73.7711498,
+101,Amritara Aura Resort & Spa,Goa,North Goa,| 4-5 minutes walk from Sinquerium Beach,4.3,"['Restaurant', 'Spa']","₹6,645 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableComplimentaryHi-Tea,,,,
+102,"The Fern Residency Miramar, Goa",Goa,Panjim,| 1.3 km drive to Mandrem Beach,3.7,"['Swimming Pool', 'Jacuzzi']","₹4,766 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.47232,73.80967,
+103,Bells Beach Resort (A unit of Resort De Balneaire),Goa,Calangute,| 1.4 km drive to Miramar Beach,3.8,"['Indoor Games', 'Gym']","₹3,278 per night",null,null,null,CoupleFriendlyBreakfastavailableatextrachargesModesthotelfeaturingaplungepool&well-appointedrooms,,44.4264,8.91519,
+104,Spectrum Hub Candolim,Goa,Candolim,| 4-5 minutes walk from Calangute Beach,4.5,"['Swimming Pool', 'Swimming Pool']","₹2,347 per night",null,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,15.51807,73.76259,
+105,Hotel Colva Kinara,Goa,Colva,| 5 minutes walk to Candolim Beach,3.8,"['Gym', 'Room in a Hostel']","₹3,617 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+106,Woodside Retreat,Goa,Baga,| 7 minutes walk to Colva Beach,4.1,"['| 1 Bedroom | Sleeps 3 guests', 'Caretaker']","₹4,213 per night",null,Entire Apartment,| 2 Bedrooms | Sleeps 6 guests,CoupleFriendly,,44.4264,8.91519,
+107,Radisson Resort Goa Baga,Goa,Baga,| 1.7 km drive to Baga Beach,4.1,"['Restaurant', 'Swimming Pool']","₹9,314 per night",null,null,null,"CoupleFriendlyBreakfastIncludedEnjoy15%offonF&B,SpaandLaundry",,15.56517,73.75517,
+108,Mitra Hostel by the Pool,Goa,Anjuna,| 1.8 km drive to Baga Beach,4.2,"['Gym', 'Swimming Pool']","₹1,297 per night",null,Beds in a Hostel,| 2 Dorm Beds,,,44.4264,8.91519,
+109,Grand Hyatt Goa,Goa,Bambolim Beach,| 8 minutes walk to Anjuna Beach,4.2,"['Indoor Games', '| 1 Bedroom | Sleeps 4 guests']","₹29,480 per night",null,null,null,BreakfastIncluded,,15.4515035,73.8513355,
+110,Grandeur Stay,Goa,Panjim,| 5 minutes walk to Bambolim Beach,5,"['Caretaker', 'Restaurant']","₹2,767 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,FreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+111,The Grand Leoney Resort,Goa,Vagator,| 7 minutes walk to Miramar Beach,4.3,"['Swimming Pool', 'Jacuzzi']","₹5,712 per night",null,null,null,CoupleFriendly,,15.5992771,73.7398462,
+112,Arize You Home,Goa,Bardez,| 8 minutes walk to Vagator Beach,4.5,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹2,207 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,CoupleFriendly,,44.4264,8.91519,
+113,Casa Almeida Guest House,Goa,Candolim,null,3.9,"['Shared Swimming Pool', 'Pool/ Beach towels']","₹1,830 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+114,"Le Meridien Goa, Calangute",Goa,Calangute,| 3 minutes walk to Candolim Beach,4.3,"['Swimming Pool', 'Gym']","₹11,213 per night",null,null,null,"CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available10%offatLatestRecipe,thein-houseall-daydiningrestaurant",,15.5439,73.7553,
+115,Casa De Goa Boutique Resort,Goa,Calangute Baga Road,| 4-5 minutes walk from Calangute Beach,4.1,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹7,030 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+116,Bloom Hotel - Calangute,Goa,Calangute Baga Road,| 5 minutes walk to Calangute Beach,3.9,"['Caretaker', 'Housekeeping']","₹5,000 per night",null,null,null,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesNearthebeach&McDonalds,largepool&bikerentals",,15.5439,73.7553,
+117,"Reemz, Beach Heaven, Anjuna",Goa,Anjuna,| 8 minutes walk to Calangute Beach,3.8,"['Beds in a Hostel', '| 2 Dorm Beds']","₹10,925 per night",Like a 3 Star,Room in an Apartment,| 1 Bedroom | Sleeps 2 guests,"CoupleFriendlyBreakfastIncludedApartmentfeaturinganin-houserestaurant,pool&lawn",,15.58005,73.74487,
+118,The Park Baga River Goa (Adults only Property),Goa,Baga,| 9 minutes walk to Anjuna Beach,4,"['Kitchenette', 'Pool/ Beach towels']","₹6,859 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.40927,73.78869,
+119,Mandala Hostel near Palolem Beach,Goa,Palolem,| 2.2 km drive to Baga Beach,4,"['Private Beach', 'Swimming Pool']","₹1,297 per night",null,Beds in a Hostel,| 2 Dorm Beds,FreeCancellationBook@₹0available,,,,
+120,Crystal Goa Onyx,Goa,Palolem,| About a minute walk to Palolem Beach,4.1,"['Entire Apartment', '| 1 Bedroom | Sleeps 5 guests']","₹3,861 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,"CoupleFriendlyChicstayentailingalawn,sit-outs&Palolembeachview",,44.4264,8.91519,
+121,Pride Sun Village Resort & Spa,Goa,Baga,| 3 minutes walk to Palolem Beach,3.5,"['Reception', 'Housekeeping']","₹4,548 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%DiscountOnF&BServices,,15.571786,73.7588617,
+122,1BHK Apartment with Private Balcony - Fortune Belleza,Goa,Candolim,| 2.3 km drive to Baga Beach,4.4,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹3,644 per night",Like a 3 Star,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyFeaturesprivatebalconieswithsit-outs,,44.4264,8.91519,
+123,Traverse Luxe Hostel Palolem,Goa,Palolem,null,4.1,"['Caretaker', 'Housekeeping']",₹910 per night,null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendlyBeachsidecottagewithacaretaker&yogasessions,,15.01667,74.01667,
+124,Caphina Coastal Comforts,Goa,Benaulim,| About a minute walk to Palolem Beach,4.8,"['Swimming Pool', 'Kids Play Area']","₹1,732 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+125,"La Estoria, Goa - IHCL SeleQtions",Goa,Candolim,Ends  in  02h:  59m:  10s,3.9,"['Spa', 'Swimming Pool']","₹8,454 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+126,Mountain Palm Patnem Beach,Goa,Palolem,| 8 minutes walk to Benaulim Beach,4.6,"['Swimming Pool', 'Spa']","₹2,528 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,44.4264,8.91519,
+127,Santana Beach Resort,Goa,Candolim,Ends  in  02h:  59m:  10s,4.4,"['Gym', 'Indoor Games']","₹5,090 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%offonF&Bservices,,15.5060492,73.7700185,
+128,Candolim Sands,Goa,Candolim,| 4-5 minutes walk from Candolim Beach,3.4,"['Swimming Pool', 'Gym']","₹1,821 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextracharges,,44.4264,8.91519,
+129,Sand Tent Beach House,Goa,Palolem,| 2.2 km drive to Palolem Beach,4.5,"['Entire Apartment', '| 1 Bedroom | Sleeps 4 guests']","₹4,006 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 3 guests,,,44.4264,8.91519,
+130,"Okean De Goa : A luxury Getaway, Near Beach",Goa,Vagator,| 4-5 minutes walk from Candolim Beach,3.8,"['Caretaker', 'Free Wi-Fi']","₹3,240 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,,,
+131,Aqua Marina Beach Cottages | Pool & Cafe,Goa,Calangute,| 8 minutes walk to Candolim Beach,3.6,"['Swimming Pool', 'Restaurant']","₹3,740 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesCottagewithacaretaker,kidsplayground&beachactivities",,-3.53333,14.83333,
+132,Acron Candolim Regina,Goa,Candolim,| About a minute walk to Palolem Beach,3.8,"['Entire Apartment', '| 2 Bedrooms | Sleeps 6 guests']","₹6,124 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges15%DiscountOnF&BServices,,44.4264,8.91519,
+133,Caravela Beach Resort,Goa,Varca Beach,| 3.0 km drive to Vagator Beach,4.4,"['Housekeeping', 'Caretaker']","₹1,01,099 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.2099428,73.9340228,
+134,Kay's Riverview Resort,Goa,Baga,| 3-4 minutes walk from Candolim Beach,3.8,"['Gym', 'Swimming Pool']","₹2,366 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges100INRFixedDiscountOnAirportTransfer,,44.4264,8.91519,
+135,Makarios Boutique-Poolside Rooms,Goa,Baga,| 4-5 minutes walk from Candolim Beach,4.2,"['Beds in a Hostel', '| 2 Dorm Beds']","₹2,952 per night",Like a 3 Star,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,"Greek-style,pet-friendlyhomestaywithasunterrace",,44.4264,8.91519,
+136,Hotel Regent Laguna,Goa,Anjuna,| About a minute walk to Varca Beach,3.6,"['Swimming Pool', 'Lounge']","₹3,710 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+137,Marcelo Place 3,Goa,Baga,| 1.7 km drive to Baga Beach,3.6,"['Jacuzzi', 'Spa']","₹2,804 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 3 guests,,,44.4264,8.91519,
+138,Sulcar Holiday home,Goa,Calangute,| 4-5 minutes walk from Baga Beach,4.5,"['Room in an Apartment', '| 1 Bedroom | Sleeps 3 guests']","₹2,106 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyFreeCancellationBook@₹0availableRoomsinanapartmentwithakitchen,caretaker,beachaccess&parking",,44.4264,8.91519,
+139,Fairfield by Marriott Goa Anjuna,Goa,Anjuna,Ends  in  02h:  59m:  12s,4,"['Free Wi-Fi', 'Washing Machine']","₹7,025 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextrachargesComplimentary2beersonarrival,,15.58005,73.74487,
+140,"The Fern Kesarval Hotel & Spa Verna Plateau, Goa",Goa,Mormugao,| 4-5 minutes walk from Anjuna Beach,3.7,"['Swimming Pool', 'Restaurant']","₹4,042 per night",null,null,null,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesComplimentaryRoomUpgrade,SubjecttoAvailability",,,,
+141,Sai Residency Baga,Goa,Baga,| 3 minutes walk to Baga Beach,3.7,"['| 1 Bedroom | Sleeps 3 guests', 'Housekeeping']","₹1,575 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.56517,73.75517,
+142,Beachfront Resort,Goa,Calangute,| About a minute walk to Calangute Beach,3.4,"['Pool/ Beach towels', 'Swimming Pool']","₹2,421 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+143,Jeet Hostel and Rooms Palolem Goa,Goa,Palolem,| 2.6 km drive to Anjuna Beach,4.6,"['Kitchenette', 'Swimming Pool']","₹1,591 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendlyFreeCancellationBook@₹0available,,15.01667,74.01667,
+144,BluO Amani Vagator - Boutique Hotel Goa,Goa,Vagator,null,3.8,"['Gym', 'Swimming Pool']","₹5,299 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.40927,73.78869,
+145,Golden Tulip Goa Vagator,Goa,Vagator,| 6 minutes walk to Baga Beach,4.8,"['Jacuzzi', 'Swimming Pool']","₹5,889 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableEnjoyHappyHourswith1+1offer,,15.59766,73.74496,
+146,Village Susegat Beach Resort Goa,Goa,Morjim,| 2 minutes walk to Calangute Beach,3.5,"['Kids Play Area', 'Room in an Apartment']","₹2,952 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.40927,73.78869,
+147,Castle House Calangute,Goa,Calangute,| 3 minutes walk to Palolem Beach,4.2,"['| 1 Bedroom | Sleeps 2 guests', 'Swimming Pool']","₹4,141 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.5434307,73.7627918,
+148,City Pride Rooms & Dormitory Panjim,Goa,Panjim,| 2.1 km drive to Vagator Beach,4.3,"['Reception', 'Swimming Pool']",₹720 per night,null,Beds in a Hostel,| 2 Dorm Beds,,,53.408558,-2.9930142,
+149,Regenta Inn Palacio De Goa,Goa,Panjim,| 9 minutes walk to Vagator Beach,3.9,"['Spa', 'Beds in a Hostel']","₹6,012 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%offonFood&Beverages,,15.40927,73.78869,
+150,Sort By Stays Anjuna,Goa,Anjuna,| About a minute walk to Morjim Beach,4.6,"['| 2 Dorm Beds', 'Kitchenette']","₹3,529 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,"CoupleFriendlyFreeCancellationBook@₹0availableTranquilhostelfeaturingalivingroom,indoorgames&abar",,15.58005,73.74487,
+151,Red Thread Calangute,Goa,Calangute,| 4-5 minutes walk from Calangute Beach,4.3,"['Restaurant', 'Room in an Apartment']","₹4,800 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.5439,73.7553,
+152,The Sincro Hotel,Goa,Margao,| 6 minutes walk to Deltin Royale,4,"['| 1 Bedroom | Sleeps 3 guests', 'Reception']","₹1,543 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+153,ECO WOODEN HOMES,Goa,Benaulim,| 1.4 km drive to Deltin Royale,5,"['Housekeeping', 'Gym']","₹3,963 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,Breakfastavailableatextracharges,,44.4264,8.91519,
+154,"ZIVA SUITES, a Boutique Hotel",Goa,Siolim,| 840 m drive to Anjuna Beach,4.6,"['Swimming Pool', '| 1 Bedroom | Sleeps 4 guests']","₹5,336 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%offonsessionofSpa,,44.4264,8.91519,
+155,Magnum Resorts- Near Candolim Beach,Goa,Candolim,| 1.4 km drive to Calangute Beach,3.9,"['Reception', 'Housekeeping']","₹2,292 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges10%OffonF&Bservices,,,,
+156,White Woods Resort & Spa,Goa,Morjim,null,4.3,"['Beds in a Hostel', '| 2 Dorm Beds']","₹4,717 per night",null,null,null,CoupleFriendlyBreakfastIncludedGuaranteed15%DiscountonF&Bservices,,,,
+157,Spazio Leisure Resort,Goa,Anjuna,| About a minute walk to Sernabatim Beach,3.7,"['Lounge', 'Restaurant']","₹3,741 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.5876787,73.7419102,
+158,The Byke Royal Pearl Anjuna,Goa,Vagator,null,4,"['Room in an Apartment', '| 1 Bedroom | Sleeps 3 guests']","₹2,854 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.58005,73.74487,
+159,"Holiday Inn Goa, Candolim",Goa,Candolim,| 7 minutes walk to Candolim Beach,4.2,"['Reception', 'Housekeeping']","₹11,450 per night",null,null,null,"CoupleFriendlyBreakfastavailableatextracharges15%discountonselectspatherapies,food&beverages",,15.5034793,73.771951,
+160,Dew Drop| Rooms with Wi-Fi,Goa,Panjim,| 4 minutes walk to Morjim Beach,4,"['Spa', 'Swimming Pool']","₹2,389 per night",null,Room in a Villa,| 1 Bedroom | Sleeps 4 guests,,,44.4264,8.91519,
+161,Crystal Goa | Rooms & Free Wi-Fi,Goa,Palolem,| 8 minutes walk to Anjuna Beach,4,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹2,972 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyGoanhomewitharestaurant,caretaker&balconysit-out",,,,
+162,TreeHouse MARS Beach Cottages,Goa,Calangute,| 2.1 km drive to Vagator Beach,4.2,"['Housekeeping', 'Seating Area']","₹5,432 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesWoodenCottageswithmodernfacilities&commonswimmingpool.,,44.4264,8.91519,
+163,Riva Gold Coast,Goa,Candolim,| 4-5 minutes walk from Sinquerium Beach,3.9,"['Swimming Pool', 'Water Sports']","₹5,829 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,6.75,-2.43333,
+164,Nazri Resort & Lawns Baga,Goa,Baga,| About a minute walk to Caranzalem Beach,3.9,"['Swimming Pool', 'Water Sports']","₹3,960 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%offonsessionofSpa,,15.558177,73.75598,
+165,TROPICAL WAVE HOSTEL,Goa,Morjim,| 2 minutes walk to Palolem Beach,4.8,"['Room in a Cottage', '| 1 Bedroom | Sleeps 3 guests']","₹2,244 per night",null,Bed in a Hostel,| 2 Dorm Beds,CoupleFriendly,,15.6227063,73.7361939,
+166,Royal Heritage Resort,Goa,Calangute,| 5 minutes walk to Calangute Beach,3.7,"['Caretaker', 'Housekeeping']","₹1,920 per night",Like a 3 Star,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextracharges,,15.5411907,73.7645309,
+167,Mansao Curtorim: A CGH Earth SAHA Experience,Goa,South Goa,| 5 minutes walk to Candolim Beach,4.1,"['Swimming Pool', 'Restaurant']","₹11,274 per night",Like a 4 Star,Room in a Villa,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyBreakfastIncludedApartmentwithalibrary,dininghall,loungearea&Wi-Fi",,44.4264,8.91519,
+168,3102bce - A Vedic Resort,Goa,Vagator,| 6 minutes walk to Baga Beach,4.4,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹7,636 per night",null,null,null,"CoupleFriendlyBreakfastIncludedEnjoyHappyHourswith2+1offeronAlcoholicDrinks,SoftBeverages",,44.4264,8.91519,
+169,So My Resorts (SoMy Resorts),Goa,Calangute Baga Road,| 7 minutes walk to Morjim Beach,4.2,"['Shared Swimming Pool', 'Caretaker']","₹5,316 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+170,"Taj Exotica Resort & Spa, Goa",Goa,Benaulim,| 4-5 minutes walk from Calangute Beach,4.7,"['Spa', 'Swimming Pool']","₹37,125 per night",null,null,null,CoupleFriendlyBreakfastIncludedGetaTajGiftCardworthatleastINR500forF&B&Spa,,4.102699,73.5255252,
+171,Golden Tulip Goa Candolim,Goa,Candolim,null,4.1,"['Gym', 'Swimming Pool']","₹7,423 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.51807,73.76259,
+172,Ticlo Resorts,Goa,Calangute Baga Road,| 1.7 km drive to Vagator Beach,3.9,"['Water Sports', 'Indoor Games']","₹3,248 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastavailableatextracharges,,44.4264,8.91519,
+173,Boshan Hotels,Goa,Mapusa,| 10 minutes walk to Calangute Beach,4,"['Room in a Homestay', '| 1 Bedroom | Sleeps 4 guests']","₹3,095 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+174,Agonda Paradise Beach Huts,Goa,Agonda,| 2 minutes walk to Benaulim Beach,4.3,"['Swimming Pool', 'Pool/ Beach towels']","₹4,537 per night",Like a 3 Star,Room in a Beach Hut,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,44.4264,8.91519,
+175,Hotel Gopika International,Goa,Panjim,| 1.3 km drive to Candolim Beach,4,"['Swimming Pool', 'Restaurant']","₹3,016 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availablePayAtHotel,,15.485748,73.81235,
+176,Calux Joia Do Mar Resort,Goa,Calangute,| 8 minutes walk to Calangute Beach,4,"['Room in a Homestay', '| 1 Bedroom | Sleeps 3 guests']","₹3,864 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+177,Monkey Mind Hostel | Dorms & Wi-Fi,Goa,Margao,| 7 minutes walk to Mapusa Bus Stand,4.2,"['Pool/ Beach towels', 'Caretaker']","₹1,264 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,"Spacioushostelofferingakitchenette,caretakerandlivingroom",,,,
+178,Falcon Resorts by Dia Hotels,Goa,Calangute Baga Road,| 4 minutes walk to Agonda Beach,3.6,"['Room in an Apartment', '| 1 Bedroom | Sleeps 4 guests']","₹2,150 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+179,Sundaze Guesthouse | Rooms & Caretaker,Goa,Panjim,| 6 minutes walk to Miramar Beach,3.3,"['Reception', 'Housekeeping']","₹1,701 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,,,,,
+180,Vila Do Flor Goa,Goa,Assagao,| 1.2 km drive to Calangute Beach,3.9,"['Jacuzzi', 'Swimming Pool']","₹2,024 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextrachargesGuaranteed15%Discountonalacarte,,15.40927,73.78869,
+181,Rahi Coral Beach Resort,Goa,Calangute Baga Road,null,3.1,"['Swimming Pool', 'Restaurant']","₹2,260 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+182,Veeraas Calangute 2BHK - Premium Apartment with Pool,Goa,Calangute,| 9 minutes walk to Calangute Beach,4.7,"['24-hour Room Service', 'Swimming Pool']","₹7,062 per night",Like a 4 Star,Entire Apartment,| 2 Bedrooms | Sleeps 8 guests,"CoupleFriendlyApartmentwithapool,kitchen,livingroom&lawnsit-outs",,44.4264,8.91519,
+183,The Westin Goa,Goa,Anjuna,null,4.5,"['24-hour Room Service', 'Beds in a Hostel']","₹17,875 per night",null,null,null,"CoupleFriendlyFreeCancellationBreakfastIncludedEnjoycomplimentarybeeronarrival,beachtransfers&dailykidsactivities!",,15.5891326,73.7435536,
+184,Whispering Palms Beach Resort,Goa,Candolim,null,3.9,"['| 2 Dorm Beds', 'Kitchenette']","₹8,421 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%offonsessionofSpa,,15.5102071,73.7679661,
+185,O9,Goa,Mapusa,| 7 minutes walk to Calangute Beach,3.9,"['Living Room', 'Swimming Pool']","₹1,614 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,13.6973443,123.4885073,
+186,GT Boutique Resort Anjuna,Goa,Anjuna,Ends  in  18h:  04m:  06s,2.9,"['Vehicle Rentals', 'Gym']","₹2,306 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.58005,73.74487,
+187,SPACELAND Mandrem,Goa,Mandrem Beach,| 1.4 km drive to Candolim Beach,4.5,"['Swimming Pool', 'Water Sports']",₹794 per night,null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendlyHostelfeaturingarooftopbarandcafe&indoorgames,,15.6640712,73.7138551,
+188,JP Resort,Goa,Arambol,| 4-5 minutes walk from Anjuna Beach,3.9,"['Beach club', 'Swimming Pool']","₹4,124 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+189,All Seasons Homestay,Goa,Bogmalo,| 7 minutes walk to Candolim Beach,4.4,"['Restaurant', 'Beds in a Hostel']","₹1,543 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,"Homestayfeaturingacaretaker,balcony,parking&sit-outs",,44.4264,8.91519,
+190,Woke Morjim Hostel | Rooms & Dorms,Goa,Morjim,| 3 minutes walk to Mapusa Bus Stand,4.2,"['| 2 Dorm Beds', 'Lounge']","₹1,307 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,,,
+191,Radisson Blu Resort Goa,Goa,Cavelossim,| 4-5 minutes walk from Anjuna Beach,4.5,"['Caretaker', 'Restaurant']","₹16,997 per night",null,null,null,"CoupleFriendlyBreakfastIncludedEnjoy10%offonspa,food&drinks,onceduringthestay",,15.40927,73.78869,
+192,Margaritas Residency.,Goa,Benaulim,| 2 minutes walk to Mandrem Beach,4.2,"['Beds in a Hostel', '| 2 Dorm Beds']","₹2,037 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,CoupleFriendly,,44.4264,8.91519,
+193,Hotel Traveller's Inn,Goa,Panjim,| 10 minutes walk to Mandrem Beach,4,"['Kitchenette', 'Lounge']","₹2,529 per night",null,null,null,FreeCancellationBook@₹0available,,44.4264,8.91519,
+194,Amara Oceanfront Resort & Club Baga,Goa,Baga,| 5 minutes walk to Bogmalo Beach,3.3,"['Jacuzzi', 'Restaurant']","₹5,568 per night",null,null,null,"CoupleFriendlyBreakfastavailableatextrachargesBeachclub,cabanas&sea-viewroomssetinalivelyambience",,,,
+195,Marcello Villa | Rooms & Caretaker,Goa,Baga,| 8 minutes walk to Morjim Beach,3,"['24-hour Room Service', 'Room in a Cottage']","₹1,073 per night",null,Room in a Villa,| 1 Bedroom | Sleeps 12 guests,,,,,
+196,Wild Berry Resort,Goa,South Goa,| 5 minutes walk to Cavelossim Beach,3.9,"['| 1 Bedroom | Sleeps 4 guests', 'Free Wi-Fi']","₹5,534 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastIncludedCottagewithanoutdoorpool&tropicalgarden,,44.4264,8.91519,
+197,Grande Ave Maria Resort,Goa,Candolim,| 2.3 km drive to Benaulim Beach,3.7,"['Shared Kitchen', 'Spa']","₹3,188 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+198,The Tamarind Hotel,Goa,Anjuna,null,4,"['Swimming Pool', 'Restaurant']","₹4,236 per night",null,null,null,CoupleFriendlyBreakfastIncludedEnjoyacomplementarybeerasawelcomedrink,,44.4264,8.91519,
+199,Lambana Resort,Goa,Calangute Baga Road,| About a minute walk to Baga Beach,4,"['Swimming Pool', 'Spa']","₹3,160 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+200,Hyatt Centric Candolim Goa,Goa,Calangute,| 1.5 km drive to Baga Beach,4.4,"['Swimming Pool', 'Restaurant']","₹14,127 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,15.5288486,73.7650838,
+201,Little India Beach Cottages | Rooms & Wi-Fi,Goa,Calangute,| 2.4 km drive to Agonda Beach,4,"['Swimming Pool', 'Spa']","₹6,488 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,,,
+202,Villa Ikebana | Rooms & Pool,Goa,Vagator,| 3 minutes walk to Candolim Beach,4.1,"['Spa', 'Swimming Pool']","₹2,621 per night",Like a 3 Star,Room in a Villa,| 1 Bedroom | Sleeps 4 guests,,,,,
+203,"Riritana Resort Residences, Dabolim",Goa,Mormugao,null,3.5,"['Room in a Villa', '| 1 Bedroom | Sleeps 4 guests']","₹2,546 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,15.39911,73.8559,
+204,Sharanam Greens Resort,Goa,Calangute,| 7 minutes walk to Calangute Beach,3.8,"['Caretaker', 'Housekeeping']","₹2,996 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges10%DiscountonAirportTransfer,,44.4264,8.91519,
+205,Dom Carlos Apartments,Goa,Arpora,| 9 minutes walk to Candolim Beach,4.2,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹1,900 per night",null,Entire Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,44.4264,8.91519,
+206,Henry's Place.,Goa,Calangute,| 1-2 minutes walk from Calangute Beach,4.5,"['Caretaker', 'Restaurant']","₹1,543 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+207,"Lazy Lagoon, A Lemon Tree Resort, Goa, Baga",Goa,Baga,null,3.8,"['Swimming Pool', 'Restaurant']","₹8,119 per night",null,null,null,"CoupleFriendlyBreakfastavailableatextrachargesEnjoy2FreePintsofBeerperStay,OnUs!",,15.56517,73.75517,
+208,Samara Holiday Homes Calangute,Goa,Calangute,| 5.0 km drive to Goa International Airport,null,"['Swimming Pool', 'Restaurant']","₹1,477 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextracharges,,15.5439,73.7553,
+209,Riviera Sapphire Holiday Homes,Goa,Siolim,| 4-5 minutes walk from Candolim Beach,4.1,"['Gym', 'Swimming Pool']","₹4,104 per night",Like a 3 Star,Entire Homestay,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,44.4264,8.91519,
+210,Fairfield by Marriott Goa Calangute,Goa,Calangute,| 2.7 km drive to Baga Beach,4.3,"['Bed in a Hostel', '| 2 Dorm Beds']","₹8,269 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedGet20%offon60to90-minutespatreatments,,15.5439,73.7553,
+211,The Funky Monkey Hostel,Goa,Anjuna,| 2-3 minutes walk from Calangute Beach,4.2,"['Kitchenette', 'Living Room']","₹2,438 per night",null,Beds in a Hostel,| 2 Dorm Beds,"FreeCancellationBook@₹0availableHostelfeaturingacafe,indoorgames&freeWi-Fi",,15.5700084,73.7447139,
+212,Hotel Goan Maharaja,Goa,Verna,Ends  in  18h:  04m:  08s,2.5,"['Room in an Apartment', '| 1 Bedroom | Sleeps 4 guests']","₹1,897 per night",null,null,null,FreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+213,Tan N Sand,Goa,Ashwem Beach,| 2.2 km drive to Baga Beach,3.9,"['Reception', 'Housekeeping']","₹12,502 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+214,Fortune Miramar-Member ITC Hotel Group,Goa,Panjim,| 860 m drive to Calangute Beach,4.5,"['| 1 Bedroom | Sleeps 4 guests', 'Caretaker']","₹13,500 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+215,Ruffles Beach Resort,Goa,Candolim,Ends  in  02h:  59m:  21s,3.6,"['Housekeeping', 'Jacuzzi']","₹4,303 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5114344,73.7687588,
+216,ROUNDCUBE BEACH BUNGLOWS PATNEM,Goa,Palolem,null,3.4,"['Spa', 'Swimming Pool']","₹5,504 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyFreeCancellationBook@₹0available,,14.99929,74.03741,
+217,Graciano Cottages,Goa,Colva,| 4-5 minutes walk from Candolim Beach,3.5,"['Spa', 'Jacuzzi']","₹4,085 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+218,BLUE JAY Homestay,Goa,Vagator,| About a minute walk to Anjuna Beach,4.7,"['Spa', 'Gym']","₹1,350 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,"BreakfastavailableatextrachargesRoomsinahomestayofferingabalcony,powerbackup,lawn&parking",,44.4264,8.91519,
+219,Silver Sands Serenity,Goa,Candolim,null,3.4,"['Swimming Pool', 'Swimming Pool']","₹4,712 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableStylishpropertywithaninfinitypool&achicloungebar,,44.4264,8.91519,
+220,"Hotel Aroma Executive Panaji -Stay in the Heart of the City,",Goa,Panjim,| About a minute walk to Ashwem Beach,3.9,"['Spa', 'Swimming Pool']","₹4,000 per night",null,null,null,Breakfastavailableatextracharges,,44.4264,8.91519,
+221,Silver Sands Hideaway,Goa,Candolim,| About a minute walk to Miramar Beach,3.9,"['Restaurant', 'Room in a Beach Hut']","₹6,253 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+222,Calangute Towers - AM Hotel Kollection,Goa,Calangute,| 7 minutes walk to Candolim Beach,3.6,"['| 1 Bedroom | Sleeps 4 guests', 'Caretaker']","₹3,750 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesGuaranteed10%DiscountonF&Bservices,,44.4264,8.91519,
+223,Eros Boutique Hotel,Goa,Baga,| 2.2 km drive to Palolem Beach,3.7,"['Housekeeping', 'Restaurant']","₹2,150 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+224,ArtBuzz Goa Morjim,Goa,Morjim,| 3 minutes walk to Colva Beach,4.9,"['24-hour Room Service', 'Swimming Pool']","₹2,211 per night",null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendly,,15.63097,73.73903,
+225,Kapila Beach Hotel and Resort,Goa,Palolem,null,4,"['Restaurant', '| 2 Dorm Beds']","₹2,848 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+226,"Lemon Tree Hotel,Candolim",Goa,Candolim,| 5 minutes walk to Candolim Beach,4.2,"['Kitchenette', 'Living Room']","₹11,179 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.51807,73.76259,
+227,Kay's Calangute Resort | Service Apartments,Goa,Calangute Baga Road,| 2 minutes walk to Deltin Royale,4.3,"['Swimming Pool', 'Restaurant']","₹3,213 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncluded10%OffonAirportTransfer,,44.4264,8.91519,
+228,Casa Baga,Goa,Baga,| 7 minutes walk to Candolim Beach,3.6,"['| 1 Bedroom | Sleeps 4 guests', 'Caretaker']","₹5,500 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,15.557429,73.7537389,
+229,Hotel Baga Prime,Goa,Baga,| 4-5 minutes walk from Calangute Beach,3.9,"['Parking', '| 1 Bedroom | Sleeps 4 guests']","₹1,727 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+230,Sortby Stays Vagator,Goa,Vagator,| 7 minutes walk to Baga Beach,4.3,"['Caretaker', 'Housekeeping']","₹3,626 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,BreakfastIncluded,,15.59766,73.74496,
+231,Eternal Wave By HappyInch,Goa,Calangute,| 9 minutes walk to Morjim Beach,4.2,"['Swimming Pool', 'Indoor Games']","₹6,000 per night",null,Entire Apartment,| 2 Bedrooms | Sleeps 6 guests,"CoupleFriendlyEntireapartmentunitsfeaturingapool,garden&restaurant",,44.4264,8.91519,
+232,"Goa Villagio Resort & Spa - A Unit of IHM, Goa",Goa,Betalbatim,| About a minute walk to Palolem Beach,4.2,"['Entire Apartment', '| 2 Bedrooms | Sleeps 8 guests']","₹4,508 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,,,
+233,Shalom Backpackers Anjuna Goa,Goa,Anjuna,| 6 minutes walk to Candolim Beach,3.7,"['Shared Swimming Pool', 'Reception']","₹2,874 per night",null,Room in a Hostel,| 1 Bedroom | Sleeps 2 guests,FreeCancellationBook@₹0available,,15.58005,73.74487,
+234,Resort Palmeiras Dourado,Goa,Mormugao,| 8 minutes walk to Calangute Beach,4,"['Gym', 'Swimming Pool']","₹6,020 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+235,Qees Empire Beach Resort Beachfront,Goa,Calangute,| 2 minutes walk to Baga Beach,3.5,"['Gym', 'Swimming Pool']","₹2,987 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0available,,44.4264,8.91519,
+236,Ashirwad Residency in Agonda,Goa,Agonda,| 1.8 km drive to Baga Beach,3.6,"['null', 'Gym']","₹2,590 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,FreeCancellationBook@₹0available,,15.05139,73.98435,
+237,Tranquilo Arambol,Goa,Arambol,| 2.0 km drive to Vagator Beach,4.4,"['Indoor Games', 'Beds in a Hostel']",₹860 per night,null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendlyHostelfeaturingarestaurant&terracesit-outswithviews,,15.6900331,73.7166564,
+238,Vacances Nordus Boutique Resort,Goa,Calangute,| 4-5 minutes walk from Calangute Beach,3.1,"['| 2 Dorm Beds', 'Kitchenette']","₹2,192 per night",null,null,null,CoupleFriendly,,44.4264,8.91519,
+239,Swimup Suites with private pool in  Vagator,Goa,Vagator,Ends  in  02h:  59m:  27s,4.2,"['Bonfire', 'Swimming Pool']","₹8,038 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"BreakfastavailableatextrachargesBoutiquevillafeaturingapool,beachaccess&arestaurant",,15.59766,73.74496,
+240,Sea Shell Beach Cottages | Rooms & Wi-Fi,Goa,Arambol,| 9 minutes walk to Betalbatim Beach,3.9,"['Spa', 'Room in a Homestay']","₹1,894 per night",null,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextracharges,,,,
+241,Green View Morjim,Goa,Morjim,| 3-4 minutes walk from Anjuna Beach,4.5,"['| 1 Bedroom | Sleeps 4 guests', 'Shared Parking']","₹1,614 per night",null,null,null,CoupleFriendly,,15.63097,73.73903,
+242,Hotel Baga Bay,Goa,Baga,| 2.5 km drive to Arossim Beach,3.8,"['Shared Terrace', 'Beds in a Hostel']","₹4,896 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+243,"La Station Resort, Vagator",Goa,Vagator,| 1-2 minutes walk from Calangute Beach,4.4,"['| 2 Dorm Beds', 'Swimming Pool']","₹1,958 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,15.59766,73.74496,
+244,La Cabana Beach Resort & Spa,Goa,Ashwem Beach,| 1.5 km drive to Agonda Beach,4.4,"['Kitchenette', 'Gym']","₹11,543 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,12.5515077,-70.0541031,
+245,Vinsons Cottages,Goa,Colva,| 2.6 km drive to Mandrem Beach,4.2,"['Swimming Pool', 'Room in an Apartment']","₹1,805 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+246,Zone Connect by The Park Parra Goa,Goa,Bardez,| 2-3 minutes walk from Calangute Beach,3.9,"['| 1 Bedroom | Sleeps 3 guests', 'Reception']","₹4,864 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.57961,73.7941,
+247,Lemon Tree Amarante Beach Resort,Goa,Candolim,| 2.0 km drive to Vagator Beach,4,"['Housekeeping', 'null']","₹11,496 per night",null,null,null,CoupleFriendlyBreakfastIncludedEnjoy2complimentarypintsofbeer,,44.4264,8.91519,
+248,Whoopers  Boutique Morjim Goa,Goa,Morjim,| 1.4 km drive to Mandrem Beach,4.7,"['Jacuzzi', 'Swimming Pool']","₹2,076 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,FreeCancellationBook@₹0available,,15.63097,73.73903,
+249,Grand royal suites Benaulim,Goa,Benaulim,| 2.0 km drive to Morjim Beach,3.5,"['Room in a Villa', '| 1 Bedroom | Sleeps 12 guests']","₹1,697 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,,,15.27004,73.93461,
+250,TreeHouse Blue Hotel & Serviced Apartments,Goa,Majorda,| 4 minutes walk to Baga Beach,4.5,"['Caretaker', 'Spa']","₹4,025 per night",Like a 4 Star,Room in an Apartment,| 1 Bedroom | Sleeps 2 guests,"CoupleFriendlyBreakfastIncludedServicedapartmentswithacafé,anoutdoorpool&playarea",,,,
+251,Mykonos Blu,Goa,Baga,| 2.2 km drive to Vagator Beach,4,"['Room in a Cottage', '| 1 Bedroom | Sleeps 4 guests']","₹5,838 per night",null,null,null,"CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextrachargesNearthebeach,poolsidebar&aplushbathtub",,44.4264,8.91519,
+252,"O Hotel Goa, Candolim Beach",Goa,Candolim,| About a minute walk to Ashwem Beach,3.9,"['Shared Swimming Pool', 'Pool/ Beach towels']","₹11,406 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+253,KARA CASA,Goa,Arpora,| 7 minutes walk to Colva Beach,4.7,"['Swimming Pool', 'Restaurant']","₹2,890 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 8 guests,CoupleFriendly,,44.4264,8.91519,
+254,Larisa Resort Ashwem,Goa,North Goa,Ends  in  18h:  04m:  22s,4.3,"['Kids Play Area', 'Swimming Pool']","₹18,404 per night",null,null,null,CoupleFriendlyBreakfastavailableatextrachargesHappyHoursSpecial:1+1onIMFL10%DiscountonF&Bservices,,44.4264,8.91519,
+255,Palm Paradise Anjuna,Goa,Anjuna,| 4 minutes walk to Candolim Beach,4.5,"['Restaurant', 'Swimming Pool']","₹1,867 per night",null,Room in a Homestay,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,15.58005,73.74487,
+256,Royal Orchid Beach Resort & Spa,Goa,Utorda Beach,| 4 minutes walk to Morjim Beach,4.2,"['Gym', 'Room in a Cottage']","₹13,562 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges10%offonFood&Beverages,,,,
+257,Olive Calangute Mira by Embassy Group,Goa,Calangute,| 2.1 km drive to Benaulim Beach,4,"['| 1 Bedroom | Sleeps 4 guests', 'Shared Swimming Pool']","₹3,234 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+258,Living Room Beach Resort,Goa,Morjim,| 2.4 km drive to Utorda Beach,3.6,"['Caretaker', '| 1 Bedroom | Sleeps 4 guests']","₹7,826 per night",Like a 4 Star,Room in a Cottage,| 1 Bedroom | Sleeps 3 guests,"CoupleFriendlyBreakfastavailableatextrachargesPlushresortflauntingapool,bar,jacuzzi&beachaccess",,44.4264,8.91519,
+259,Rio Boutique Hotel,Goa,Bardez,| 3-4 minutes walk from Baga Beach,4.1,"['Shared Swimming Pool', 'Caretaker']","₹3,146 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+260,Hotel Z Square ( Hotel Ashok Plaza),Goa,Panjim,| 4-5 minutes walk from Candolim Beach,3.7,"['Room in an Apartment', '| 1 Bedroom | Sleeps 4 guests']","₹2,704 per night",null,null,null,CoupleFriendlyPayAtHotel,,44.4264,8.91519,
+261,The Last Minute Trip,Goa,Morjim,| 2.0 km drive to Baga Beach,4.9,"['Shared Swimming Pool', 'Caretaker']","₹2,211 per night",Like a 3 Star,Room in a Hostel,| 1 Bedroom | Sleeps 3 guests,CoupleFriendly,,44.4264,8.91519,
+262,The Byke Old Anchor Beach Resort & Spa,Goa,Cavelossim,null,3.8,"['Swimming Pool', 'Restaurant']","₹1,828 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,,,
+263,Andaz Arambol - Artist Party Hostel,Goa,Arambol,| 1.7 km drive to Anjuna Beach,3.8,"['Entire Apartment', '| 1 Bedroom | Sleeps 4 guests']",₹489 per night,null,Beds in a Hostel,| 2 Dorm Beds,CoupleFriendlyFreeCancellationBook@₹0available,,44.4264,8.91519,
+264,Planet Hollywood Beach Resort,Goa,Utorda Beach,Ends  in  02h:  59m:  38s,4.4,"['Reception', 'Caretaker']","₹11,994 per night",null,null,null,CoupleFriendlyBreakfastIncluded10%offonsessionofSpa,,44.4264,8.91519,
+265,Kalki Resort and Cottages Baga,Goa,Baga,| 3 minutes walk to Utorda Beach,3.3,"['null', 'Gym']","₹2,815 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.56517,73.75517,
+266,AquaVista at Casa Philomena,Goa,Calangute Baga Road,| 2-3 minutes walk from Calangute Beach,4.2,"['Swimming Pool', 'Room in an Apartment']","₹4,151 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,,,44.4264,8.91519,
+267,Candolim suites - A unit of pal hospitality,Goa,Calangute,| About a minute walk to Morjim Beach,3.8,"['| 1 Bedroom | Sleeps 4 guests', 'Reception']","₹3,815 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availablePayAtHotel,,44.4264,8.91519,
+268,Durga Resort,Goa,Arambol Beach,null,4,"['Housekeeping', '| 1 Bedroom | Sleeps 4 guests']","₹1,318 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 3 guests,"CoupleFriendlyRoomsinanapartmentwithalawn,freeparking&Wi-Fi",,44.4264,8.91519,
+269,Marbela Beach Resort,Goa,Morjim,| 8 minutes walk to Deltin Royale,3.5,"['Private Swimming Pool', 'Private Kitchen']","₹7,511 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+270,Acron Waterfront Resort,Goa,Baga,| 3 minutes walk to Morjim Beach,3.8,"['Spa', 'Swimming Pool']","₹9,374 per night",null,null,null,CoupleFriendlyBreakfastavailableatextrachargesINR500discountonsessionofSpa,,44.4264,8.91519,
+271,goSTOPS Goa Calangute,Goa,Calangute Baga Road,| About a minute walk to Cavelossim Beach,3.9,"['Beds in a Hostel', '| 2 Dorm Beds']","₹2,135 per night",Like a 3 Star,Beds in a Hostel,| 2 Dorm Beds,,,15.5439,73.7553,
+272,Artistry Suites,Goa,Calangute,| 2.4 km drive to Mandrem Beach,4.8,"['Living Room', 'Restaurant']","₹10,222 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%DiscountOnF&BServices,,44.4264,8.91519,
+273,HOTEL GOLDEN PLATEAU,Goa,Povorim,| About a minute walk to Utorda Beach,3.6,"['Bar', 'Jacuzzi']","₹4,844 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5200796,73.8280793,
+274,Hotel Delta Residency,Goa,Calangute,| 4-5 minutes walk from Baga Beach,3.7,"['Spa', 'Swimming Pool']","₹1,898 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+275,Ocean Palms Goa,Goa,Calangute,| 9 minutes walk to Calangute Beach,4.3,"['Gym', 'Swimming Pool']","₹7,351 per night",null,null,null,"CoupleFriendlyBreakfastIncludedEnjoyavibrantdiningexperiencecomplementedbyliveperformanceslike–BellyDance,MagicShows,DJNights&AerialDanceatTerra(ChargedApply)20%offonsessionof60minsSpa",,15.5328804,73.7657478,
+276,Marina Bay Beach Resort,Goa,Candolim,| 7 minutes walk to Candolim Beach,3.6,"['Restaurant', 'Room in a Cottage']","₹3,333 per night",null,null,null,CoupleFriendlyBreakfastIncluded,,44.4264,8.91519,
+277,"Vivanta Goa, Panaji",Goa,Panjim,null,4.5,"['| 1 Bedroom | Sleeps 4 guests', 'Caretaker']","₹18,225 per night",null,null,null,CoupleFriendlyFreeCancellationBreakfastIncludedBook@₹0availableGetaTajGiftCardworthatleastINR500forF&B&Spa,,15.4939579,73.820275,
+278,Jasminn Hotel- AM Hotel Kollection,Goa,Betalbatim,| About a minute walk to Morjim Beach,4.3,"['Housekeeping', 'Indoor Games']","₹6,841 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+279,Goan Fiesta Studios Calangute,Goa,Calangute,| 10 minutes walk to Baga Beach,4.3,"['Restaurant', '| 1 Bedroom | Sleeps 4 guests']","₹2,010 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyEntireapartmentofferingakitchen,caretaker&parking",,15.5439,73.7553,
+280,Park Prime Goa,Goa,Panjim,| 5 minutes walk to Calangute Beach,3.7,"['Caretaker', 'Lawn']","₹5,150 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.40927,73.78869,
+281,Estrela Do Mar Beach Resort - A Beach Property,Goa,Calangute,| 4-5 minutes walk from Calangute Beach,3.7,"['Swimming Pool', 'Gym']","₹5,294 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+282,Common Home Agonda Beach,Goa,Agonda,null,4.6,"['Restaurant', 'Bar']","₹3,482 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBeachfronthomestaywitharestaurant&stylishdecor,,44.4264,8.91519,
+283,Crystal Bay Baga,Goa,Baga,| 3-4 minutes walk from Calangute Beach,3.4,"['Jacuzzi', 'Swimming Pool']","₹2,308 per night",null,null,null,CoupleFriendly,,15.56517,73.75517,
+284,The Queeny,Goa,Mormugao,| 4-5 minutes walk from Calangute Beach,3,"['Swimming Pool', 'Gym']","₹1,498 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+285,Susegado Calangute,Goa,Calangute,| 8 minutes walk to Candolim Beach,5,"['null', 'Beds in a Hostel']","₹1,925 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,,,15.5439,73.7553,
+286,Lazy Bee Cottages,Goa,Nagoa,| 1.5 km drive to Deltin Royale,4.2,"['| 2 Dorm Beds', 'Swimming Pool']","₹3,616 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,44.4264,8.91519,
+287,Villa Donna Luxury Apartment,Goa,Panjim,| 2.2 km drive to Betalbatim Beach,4.4,"['Caretaker', 'Swimming Pool']","₹8,185 per night",Like a 4 Star,Entire Apartment,| 1 Bedroom | Sleeps 3 guests,CoupleFriendly,,44.4264,8.91519,
+288,GoAround Homes | Portuguese Villa at Anjuna Beach,Goa,Anjuna,| 1.7 km drive to Calangute Beach,4.4,"['24-hour Room Service', 'Gym']","₹3,089 per night",null,Room in a Villa,| 1 Bedroom | Sleeps 4 guests,"CoupleFriendlyVillasofferingakitchen,caretaker,terrace,garden&sit-outs",,44.4264,8.91519,
+289,Atlanta Beach Resort,Goa,Calangute,| 10 minutes walk to Deltin Royale,3.3,"['Swimming Pool', 'Swimming Pool']","₹2,374 per night",null,null,null,Breakfastavailableatextracharges,,15.5366667,73.7639266,
+290,Arya Cottages,Goa,Agonda,| 2 minutes walk to Calangute Beach,3.7,"['Water Sports', 'Swimming Pool']","₹3,044 per night",Like a 3 Star,Room in a Beach Hut,| 1 Bedroom | Sleeps 4 guests,CoupleFriendly,,15.0517202,73.982636,
+291,DiVaN Clarks Inn (Calangute Beach),Goa,Calangute,| 3 minutes walk to Agonda Beach,3.5,"['Restaurant', 'Water Sports']","₹2,192 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges10%OffonF&Bservices,,44.4264,8.91519,
+292,Goa Marriott Resort & Spa,Goa,Panjim,| 3 minutes walk to Baga Beach,4.4,"['Lounge', 'Room in an Apartment']","₹22,500 per night",null,null,null,"CoupleFriendlyFreeCancellationBreakfastavailableatextrachargesAvail15%discountonspa,food&beverages",,15.4868443,73.8095296,
+293,The Baga Beach Resort,Goa,Baga,| 9.7 km drive to Goa International Airport,4,"['| 1 Bedroom | Sleeps 3 guests', 'Reception']","₹7,001 per night",null,null,null,CoupleFriendlyBreakfastavailableatextrachargesComplimentaryHi-Tea,,15.5556243,73.752782,
+294,The X & Z Goa,Goa,Calangute,| 2 minutes walk to Calangute Beach,3.9,"['Housekeeping', 'Entire Apartment']","₹2,694 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,42.0862057,-72.5578655,
+295,Park Regis,Goa,Baga,null,3.6,"['| 2 Bedrooms | Sleeps 6 guests', 'Reception']","₹9,276 per night",null,null,null,CoupleFriendlyFreeCancellationBook@₹0availableBreakfastavailableatextracharges,,15.5737606,73.7592056,
+296,Laxmi Empire Hotel,Goa,Margao,| 4-5 minutes walk from Miramar Beach,4.3,"['Housekeeping', 'Gym']","₹10,833 per night",null,null,null,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+297,Cozy Apartments in Monarch Palms | Rooms & Pool,Goa,Candolim,| 4 minutes walk to Anjuna Beach,4.2,"['Swimming Pool', 'Room in a Hostel']","₹8,426 per night",Like a 4 Star,Room in an Apartment,| 1 Bedroom | Sleeps 10 guests,"CoupleFriendlyRoomsinanapartmentwithakitchen,Wi-Fi&parking",,,,
+298,Agonda Beach Chalets,Goa,Agonda,| 9 minutes walk to Calangute Beach,4.1,"['| 1 Bedroom | Sleeps 2 guests', 'Swimming Pool']","₹5,369 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,"Beachfrontresortfeaturingarestaurant,parking&seaviews",,44.4264,8.91519,
+299,Obrigado Beach Cottages | Room & Pool,Goa,Arambol,| 3 minutes walk to Agonda Beach,3.9,"['Kitchenette', 'Swimming Pool']","₹3,262 per night",Like a 3 Star,Room in a Cottage,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextracharges,,,,
+300,Coco Homes by MyRoom,Goa,Candolim,| 10 minutes walk to Calangute Beach,3.6,"['Restaurant', 'Swimming Pool']","₹3,039 per night",null,Room in an Apartment,| 1 Bedroom | Sleeps 4 guests,CoupleFriendlyBreakfastavailableatextracharges,,44.4264,8.91519,
+301,Gokulam Park,Munnar,Chithirapuram ,city centre,4.1,,"2,728",,,,,1058,10.08873,77.06269,574
+302,Sterling Munnar,Munnar,Chinnakanal ,city centre,3.8,,"4,451",,,,,1088,10.08873,77.06269,969
+303,Issacs Residency,Munnar,Central Munnar ,Attukal Waterfalls,4.1,,"2,758",,,,,322,10.08873,77.06269,684
+304,Tea Valley Resort,Munnar,Pallivasal ,city centre,4.3,,"2,675",,,,,1337,10.0527711,77.0654755,756
+305,Grand Plaza,Munnar,Moolakadai ,Attukal Waterfalls,4.3,,"3,203",,,,,1058,10.0740584,77.063995,654
+306,Misty Mountain Resort,Munnar,Pallivasal ,city centre,4.2,,"3,145",,,,,1934,10.08873,77.06269,848
+307,Eastend Munnar,Munnar,Central Munnar ,Attukal Waterfalls,3.9,,"3,493",,,,,437,10.0872861,77.0618579,713
+308,Seven Springs Plantation Resort,Munnar,Laxmi Estate ,city centre,3.7,,"2,255",,,,,6,10.08873,77.06269,554
+309,Clouds Valley Leisure Hotel,Munnar,Near Munnar Bus Stand ,Attukal Waterfalls,4,,"2,595",,,,,599,10.08873,77.06269,530
+310,Broad Bean Resort & Spa,Munnar,Muthirapuzhayar Road ,city centre,4.1,,"5,583",,,,,249,10.021094,77.0542091,"1,141"
+311,KTDC Tea County,Munnar,Central Munnar ,Attukal Waterfalls,4.4,,"5,022",,,,,851,10.08873,77.06269,"1,026"
+312,Parakkat Nature Resorts,Munnar,Pallivasal ,city centre,4.3,,"9,977",,,,,1310,10.08873,77.06269,"2,682"
+313,"Chithirapuram Palace | Rooms & Restaurant
+Like a 3",Munnar,Chithirapuram ,city centre,4.5,,"2,494",,,,,96,,,634
+314,Devonshire Greens - The Leisure Hotel & Spa,Munnar,Pallivasal ,city centre,3.9,,"4,815",,,,,431,,,"1,177"
+315,Sn Holiday Home,Munnar,Anachal ,city centre,4.2,,966,,,,,369,10.08873,77.06269,229
+316,Vibe Munnar,Munnar,Ettycity Road ,city centre,4.6,,"7,905",,,,,136,10.08873,77.06269,"2,380"
+317,Landy Queen Homestay | Rooms & Caretaker,Munnar,Central Munnar ,Attukal Waterfalls,4.5,,"1,279",,,,,188,,,269
+318,juSTa Rangers Munnar,Munnar,Adimali ,city centre,4.2,,"3,481",,,,,188,10.08873,77.06269,946
+319,The Panoramic Getaway,Munnar,Chithirapuram ,city centre,4.6,,"11,974",,,,,939,10.08873,77.06269,"4,617"
+320,Hotel Hillview,Munnar,Moolakadai ,Attukal Waterfalls,3.9,,"2,820",,,,,501,10.08873,77.06269,693
+321,Tea Castle,Munnar,Chithirapuram ,city centre,3.8,,"1,791",,,,,157,10.08873,77.06269,366
+322,"Tulsi Village Retreat | Treehouse & Cabin Stays
+Like a 3",Munnar,Adimali ,city centre,3.9,,"1,545",,,,,352,,,346
+323,Elixir Hills Suites Resort & Spa,Munnar,Laxmi Estate ,city centre,4.2,,"7,784",,,,,986,,,"2,092"
+324,Bellmount Resorts,Munnar,Central Munnar ,Attukal Waterfalls,3.9,,"2,364",,,,,1204,10.08873,77.06269,586
+325,Amber Dale Luxury Hotel and Spa,Munnar,Pallivasal ,city centre,4.4,,"5,661",,,,,1047,10.08873,77.06269,"1,216"
+326,"Jungle Jive Tree House | Rooms in a Homestay
+Like a 3",Munnar,Munnar ,city centre,3.8,,"5,204",,,,,10,38.5,-0.5,"1,134"
+327,Abad Copper Castle Hill Valley Resort,Munnar,Near Pothamedu Viewpoint ,city centre,4.2,,"4,910",,,,,366,10.08873,77.06269,
+328,Chandys Windy Woods,Munnar,Chithirapuram ,city centre,4.8,,"9,000",,,,,355,10.08873,77.06269,
+329,Elysium Garden,Munnar,Central Munnar ,Attukal Waterfalls,4,,"3,320",,,,,844,10.086504,77.069284,678
+330,The Siena Village,Munnar,Chinnakanal ,city centre,4.4,,"3,974",,,,,551,10.08873,77.06269,865
+331,"Munnar Ice Queen | Rooms & Cottages
+Like a 3",Munnar,Muthuvaankudi ,city centre,4.7,,"2,410",,,,,112,,,596
+332,Queen Of Munnar | Rooms in a Homestay,Munnar,Central Munnar ,Attukal Waterfalls,2.8,,978,,,,,252,10.08873,77.06269,156
+333,Le Celestium,Munnar,Central Munnar ,Attukal Waterfalls,3.6,,"1,674",,,,,478,10.087304,77.0680277,378
+334,Mercys Munnar Homestay | Room & Caretaker,Munnar,Munnar ,city centre,3.9,,930,,,,,48,,,290
+335,Star Emirates Luxury Resort And Spa,Munnar,Ambazhachal ,city centre,4.2,,"2,832",,,,,289,10.08873,77.06269,875
+336,The Hosteller Munnar,Munnar,Periyakanal-Muttukad Road ,city centre,4.2,,"3,629",,,,,142,10.08873,77.06269,792
+337,ELEPHANT PASSAGE,Munnar,Anachal ,city centre,4.6,,"10,881",,,,,235,10.08873,77.06269,"2,925"
+338,Dream Coconut Villa Resort,Munnar,Chithirapuram ,city centre,4.1,,"2,543",,,,,219,10.08873,77.06269,519
+339,Fragrant Nature Munnar,Munnar,Pallivasal ,city centre,4.5,,"10,400",,,,,228,10.08873,77.06269,"1,872"
+340,Munnar Castle,Munnar,Central Munnar ,Attukal Waterfalls,3.8,,"2,365",,,,,519,10.087636,77.068631,930
+341,Westwood Riverside Garden Resort,Munnar,Moolakadai ,Attukal Waterfalls,3.4,,"2,428",,,,,301,10.08873,77.06269,711
+342,Snow Line Resort,Munnar,Chithirapuram ,city centre,4.3,,"2,763",,,,,165,10.08873,77.06269,653
+343,HOTEL WHITE HOUSE,Munnar,Anachal ,city centre,4.4,,"5,631",,,,,82,10.08873,77.06269,"1,346"
+344,Green Trees,Munnar,Chithirapuram ,city centre,3.1,,"2,706",,,,,54,10.08873,77.06269,589
+345,Munnar Summer Castle,Munnar,Ettycity Road ,city centre,4,,"2,930",,,,,40,10.08873,77.06269,599
+346,Mountain Club Resort Munnar,Munnar,Chinnakanal ,city centre,4.3,,"9,417",,,,,420,10.08873,77.06269,"2,531"
+347,AMUSE VISTA RESORTS AND SPA,Munnar,Anachal ,city centre,3.9,,"2,228",,,,,152,10.08873,77.06269,567
+348,Grace Munnar,Munnar,Munnar ,city centre,3.9,,"1,814",,,,,43,10.102094,76.3601796,429
+349,MehaKira Holiday Inn | Room & Caretaker,Munnar,Central Munnar ,Attukal Waterfalls,3.9,,"1,347",,,,,230,,,352
+350,The Club Munnar,Munnar,Devikulam ,city centre,3.1,,"2,630",,,,,101,10.0351417,77.126755,557
+351,Palmtree Leaf Munnar,Munnar,Ettycity Road ,city centre,4.2,,"2,696",,,,,113,10.08873,77.06269,638
+352,Casa Montana,Munnar,Near Munnar Bus Stand ,Attukal Waterfalls,4.2,,"3,627",,,,,396,10.0738789,77.0610384,741
+353,"Bison Valley Homestay | Rooms & Caretaker
+Like a 3",Munnar,Bison Valley ,city centre,4.4,,"2,011",,,,,54,,,506
+354,Munnar Tea Hills Resort,Munnar,Anachal ,city centre,4.1,,"4,519",,,,,443,10.08873,77.06269,923
+355,SpiceTree Munnar Boutique Resort,Munnar,Periyakanal-Muttukad Road ,city centre,4.6,,"10,631",,,,,85,10.08873,77.06269,"3,038"
+356,Southern Panorama Indriya Resorts,Munnar,Pottankadu ,city centre,4,,"3,412",,,,,89,10.08873,77.06269,953
+357,La Flora Spicewood,Munnar,Suryanelli ,city centre,3.4,,"1,041",,,,,45,10.08873,77.06269,213
+358,"Cloud Castle Resorts And Spa, Munnar",Munnar,Anachal ,city centre,4.2,,"3,349",,,,,103,10.08873,77.06269,860
+359,Tea Garden Riverside,Munnar,Moolakadai ,Attukal Waterfalls,4.2,,"2,177",,,,,128,10.08873,77.06269,445
+360,The Lake View Resort Munnar,Munnar,Anachal ,city centre,3.7,,"6,277",,,,,192,10.08873,77.06269,472
+361,Ragamaya Resort & Spa Munnar,Munnar,Munnar ,city centre,4.3,,"6,057",,,,,336,,,"1,237"
+362,"Dew Drops Farm Resorts | Rooms & Guided Treks
+Like a 3",Munnar,Adimali ,city centre,4.3,,"1,719",,,,,437,,,410
+363,Indrizzo Spice Valley Resort,Munnar,Chithirapuram ,city centre,3.5,,"1,674",,,,,52,10.08873,77.06269,342
+364,Munnar Inn,Munnar,Central Munnar ,Attukal Waterfalls,3.6,,"2,046",,,,,232,10.0861,77.0601,484
+365,The Wild Trails Munnar,Munnar,Mankulam ,city centre,4.7,,"7,374",,,,,51,10.08873,77.06269,"1,982"
+366,Forest Haven Resort,Munnar,Kallar Vattiyar ,city centre,3.6,,"2,046",,,,,246,10.08873,77.06269,418
+367,The Regalia Munnar,Munnar,Chinnakanal ,city centre,4.1,,"2,371",,,,,189,10.08873,77.06269,484
+368,Mist Inn Resort,Munnar,Pallivasal ,city centre,3.6,,"3,255",,,,,100,10.08873,77.06269,665
+369,Swiss County,Munnar,Chithirapuram ,city centre,4.5,,"3,447",,,,,328,10.08873,77.06269,847
+370,The Fog Munnar (Resort & Spa),Munnar,Ettycity Road ,city centre,4.5,,"8,103",,,,,292,,,"2,178"
+371,Skylark Holidays | Rooms & Caretaker,Munnar,Chinnakanal ,city centre,4.1,,"3,317",,,,,17,,,684
+372,Deshadan Mountain Resort- The highest resort in Munnar,Munnar,Pallivasal ,city centre,4.3,,"3,953",,,,,395,10.08873,77.06269,808
+373,Nature Zone Jungle Resort,Munnar,Pallivasal ,city centre,4.1,,"6,862",,,,,187,10.08873,77.06269,"2,124"
+374,Lumino Highrange Homestay | Room & Guided Treks,Munnar,Moolakadai ,Attukal Waterfalls,3.2,,"1,014",,,,,221,,,223
+375,HOTEL ANURAAG VILLA JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,1305,26.9272302,75.7892074,
+376,HILTON JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,4358,26.973697,75.84438205,
+377,"TRIDENT, JAIPUR",Jaipur,Jaipur,,,,4120.05,,,,,499,26.9573444,75.8428861,
+378,THE FERN RESIDENCY JAIPUR,Jaipur,Jaipur,,,,2172.39,,,,,278,26.87435885,75.8164206,
+379,"ITC RAJPUTANA, JAIPUR A LUXURY COLLECTION HOTEL JAIPUR",Jaipur,Jaipur,,,,3221.13,,,,,6189,26.9193125,75.7911748,
+380,HOLIDAY INN JAIPUR CITY CENTRE JAIPUR,Jaipur,Jaipur,,,,4644.42,,,,,4392,26.90294,75.792486,
+381,LEISURE INN GRAND CHANAKYA JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,1297,26.9165175,75.8078876,
+382,RADISSON BLU JAIPUR,Jaipur,Jaipur,,,,4045.14,,,,,2239,26.8425131,75.7941252,
+383,UMAID BHAWAN HERITAGE HOUSE HOTEL JAIPUR,Jaipur,Jaipur,,,,4045.14,,,,,3971,26.9285056,75.7924193,
+384,PEARL PALACE HERITAGE JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,1467,26.9159108,75.792374,
+385,SAROVAR PREMIERE JAIPUR,Jaipur,Jaipur,,,,2921.49,,,,,648,26.8819259,75.7975034,
+386,VESTA INTERNATIONAL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,683,26.9146246,75.7912757,
+387,IBIS JAIPUR,Jaipur,Jaipur,,,,1573.11,,,,,121,26.9080169,75.7799712,
+388,RADISSON JAIPUR CITY CENTER JAIPUR,Jaipur,Jaipur,,,,4269.87,,,,,1172,26.92048907,75.7947166,
+389,HOTEL DODA'S PALACE JAIPUR,Jaipur,Jaipur,,,,973.83,,,,,223,26.8950916,75.8266799,
+390,CLARKS AMER JAIPUR,Jaipur,Jaipur,,,,4120.05,,,,,2149,26.8463761,75.8004811,
+391,GOLDEN TULIP ESSENTIAL JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,321,26.9170093,75.8061355,
+392,HOTEL MANSINGH JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,654,26.9193419,75.8010617,
+393,UMAID MAHAL A HERITAGE STYLE BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,3071.31,,,,,2594,26.9281678,75.79072165,
+394,SAMODE HAVELI JAIPUR,Jaipur,Jaipur,,,,7640.82,,,,,1832,26.9335552,75.8365222,
+395,HOTEL MARIGOLD JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,454,26.7882441,75.8303263,
+396,THE PARK CLASSIC JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,147,26.8728891,75.7770473,
+397,"PARK INN BY RADISSON, JAIPUR",Jaipur,Jaipur,,,,3221.13,,,,,130,26.88782905,75.79421675,
+398,SHAHPURA HOUSE JAIPUR,Jaipur,Jaipur,,,,3895.32,,,,,2429,26.927814,75.787741,
+399,UJJWAL PREMIER HOTEL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,136,26.9210164,75.7946968,
+400,WELCOMHERITAGE TRADITIONAL HAVELI JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,617,26.9266917,75.7904742,
+401,LAXMI PALACE HERITAGE BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,551,26.9252671,75.8011534,
+402,VESTA MAURYA PALACE JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,521,26.9154056,75.8110096,
+403,HOTEL KALYAN JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,319,26.9161,75.796008,
+404,GINGER JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,925,26.901433,75.7847186,
+405,FORT CHANDRAGUPT JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,166,26.9235625,75.8016944,
+406,"THE FERN AN ECOTEL HOTEL, JAIPUR",Jaipur,Jaipur,,,,4569.51,,,,,1371,26.8436693,75.7941375,
+407,JAI MAHAL PALACE JAIPUR,Jaipur,Jaipur,,,,9363.75,,,,,3647,26.9121335,75.7851706,
+408,HOTEL GOLDEN TULIP JAIPUR,Jaipur,Jaipur,,,,3146.22,,,,,1471,26.91666125,75.80563545,
+409,RED FOX HOTEL JAIPUR,Jaipur,Jaipur,,,,3595.68,,,,,2744,26.8650608,75.8067423,
+410,HOTEL ROYAL ORCHID JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,2143,26.844936,75.792987,
+411,THE LALIT JAIPUR,Jaipur,Jaipur,,,,3820.41,,,,,2527,26.8395887,75.8075013,
+412,BRIJNEST SUITES JAIPUR,Jaipur,Jaipur,,,,2172.39,,,,,147,26.8476857,75.8013546,
+413,RENEST JAIPUR,Jaipur,Jaipur,,,,2247.3,,,,,313,26.8798567,75.7585536,
+414,RAMADA BY WYNDHAM JAIPUR,Jaipur,Jaipur,,,,5468.43,,,,,217,26.86050525,75.76342725,
+415,PARK PRIME JAIPUR,Jaipur,Jaipur,,,,2097.48,,,,,470,26.9087799,75.8026413,
+416,SHIV VILAS JAIPUR,Jaipur,Jaipur,,,,13259.07,,,,,691,26.9873115,75.8506619,
+417,"THE THEME, JAIPUR",Jaipur,Jaipur,,,,1722.93,,,,,578,26.8283289,75.7939768,
+418,UMAID HAVELI HOTEL AND RESORTS JAIPUR,Jaipur,Jaipur,,,,4194.96,,,,,544,27.029806,75.8962882,
+419,NAHAR SINGH HAVELI JAIPUR,Jaipur,Jaipur,,,,599.28,,,,,692,26.924634,75.7967434,
+420,KHANDELA HAVELI JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,462,26.9317139,75.7914166,
+421,DERA RAWATSAR JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,137,26.925017,75.8015132,
+422,CLARION HOTEL BELLA CASA JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,832,26.8404241,75.7947605,
+423,ROYALE LALIT HOTEL JAIPUR,Jaipur,Jaipur,,,,2397.12,,,,,450,26.911237,75.7521211,
+424,HOTEL HOLIDAY HOME JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,117,26.9180154,75.791685,
+425,BISSAU PALACE JAIPUR,Jaipur,Jaipur,,,,5093.88,,,,,300,26.9295858,75.8088254,
+426,HOTEL RAJASTHAN PALACE JAIPUR,Jaipur,Jaipur,,,,2397.12,,,,,369,26.9007497,75.8211013,
+427,THE BYKE GRASSFIELD JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,101,26.8929555,75.7584303,
+428,CYGNET LITE GRAND JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,83,26.9287873,75.7917492,
+429,GOLDEN EAGLE BY KESHAV GLOBAL HOTELS & SPA JAIPUR,Jaipur,Jaipur,,,,1797.84,,,,,200,26.8859198,75.7319666,
+430,UMAID RESIDENCY A REGAL HERITAGE HOME HOTEL JAIPUR,Jaipur,Jaipur,,,,1947.66,,,,,320,27.0302628,75.8956798,
+431,HOTEL PARK OCEAN JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,135,26.9475569,75.77332,
+432,COUNTY INN HOTEL JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,200,26.9154203,75.7524099,
+433,HOTEL DE NADA JAIPUR,Jaipur,Jaipur,,,,4869.15,,,,,800,26.8473802,75.8084428,
+434,HOTEL SUGAN NIWAS PALACE JAIPUR,Jaipur,Jaipur,,,,11086.68,,,,,400,26.9251983,75.8007904,
+435,"DEVI RATN, IHCL SELEQTIONS JAIPUR",Jaipur,Jaipur,,,,8165.19,,,,,700,26.9168242,75.8806512,
+436,ARYA NIWAS JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,1611,26.9206312,75.8040946,
+437,JAIPUR MARRIOTT HOTEL JAIPUR,Jaipur,Jaipur,,,,3221.13,,,,,3530,26.8417597,75.7961889,
+438,ZOSTEL JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,137,26.9292998,75.8281061,
+439,GRAND UNIARA. A HERITAGE HOTEL JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,208,26.8978723,75.8163869,
+440,HOTEL SARANG PALACE JAIPUR,Jaipur,Jaipur,,,,1048.74,,,,,1377,26.9373377,75.7960777,
+441,RAMBAGH PALACE JAIPUR,Jaipur,Jaipur,,,,23147.19,,,,,3305,26.8981053,75.8081498,
+442,BUENA VISTA LUXURY GARDEN SPA RESORT JAIPUR,Jaipur,Jaipur,,,,13259.07,,,,,1500,26.9842515,75.9058284,
+443,SAROVAR PORTICO JAIPUR,Jaipur,Jaipur,,,,3445.86,,,,,186,26.902599,75.7524281,
+444,HOTEL SHIKHA JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,517,26.9061,75.7969864,
+445,ALL SEASONS HOMESTAY JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,648,26.9161831,75.7963812,
+446,ROYAL ORCHID CENTRAL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,1107,26.9247407,75.7936217,
+447,SHAKUN HOTELS AND RESORTS JAIPUR,Jaipur,Jaipur,,,,2921.49,,,,,285,26.910814,75.8019579,
+448,ROYAL HERITAGE HAVELI JAIPUR,Jaipur,Jaipur,,,,8689.56,,,,,700,26.9252792,75.7457239,
+449,MILESTONE 251 JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,259,26.9267165,75.7898049,
+450,HARI MAHAL PALACE JAIPUR,Jaipur,Jaipur,,,,2172.39,,,,,255,26.9106698,75.789367,
+451,HOTEL PEARL PALACE JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,2333,26.9162153,75.7956004,
+452,KRISHNA PALACE JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,658,26.9277706,75.786476,
+453,HOTEL YASH REGENCY JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,115,26.9230839,75.7467762,
+454,NAHARGARH HAVELI JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,2137,26.9146455,75.7925911,
+455,SOUVENIR PEPPERMINT HOTEL JAIPUR,Jaipur,Jaipur,,,,7116.45,,,,,454,26.9400988,75.79529025,
+456,NARAIN NIWAS PALACE JAIPUR,Jaipur,Jaipur,,,,5468.43,,,,,690,26.8982188,75.813938,
+457,HOTEL RANGOLI JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,14,26.9165043,75.8107679,
+458,"FOUR POINTS BY SHERATON JAIPUR, CITY SQUARE JAIPUR",Jaipur,Jaipur,,,,2172.39,,,,,2633,26.8646857,75.7960927,
+459,HOTEL H R PALACE JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,481,26.9252909,75.7904205,
+460,CHOKHI DHANI RESORT JAIPUR,Jaipur,Jaipur,,,,973.83,,,,,1144,26.7674854,75.8362399,
+461,SAJJAN NIWAS JAIPUR,Jaipur,Jaipur,,,,1573.11,,,,,339,26.928346,75.792566,
+462,RAMADA BY WYNDHAM JAIPUR JAISINGHPURA JAIPUR,Jaipur,Jaipur,,,,3895.32,,,,,970,26.8252613,75.6979265,
+463,FLUTE BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,1797.84,,,,,312,26.9121913,75.7941699,
+464,HOTEL REEVE INN JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,20,26.925094,75.790595,
+465,5 BY OYO METROPOLITAN JAIPUR,Jaipur,Jaipur,,,,4719.33,,,,,1857,26.9025631,75.7936779,
+466,INDANA PALACE JAIPUR,Jaipur,Jaipur,,,,5543.34,,,,,600,27.0150554,75.8814214,
+467,REGENTA CENTRAL JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,397,26.95061045,75.79615625,
+468,THE OBEROI RAJVILAS JAIPUR,Jaipur,Jaipur,,,,20375.52,,,,,2000,26.8759401,75.8837593,
+469,THE TREE HOUSE RESORT JAIPUR,Jaipur,Jaipur,,,,13933.26,,,,,972,27.0349303,75.8710011,
+470,CROWNE PLAZA JAIPUR TONK ROAD JAIPUR,Jaipur,Jaipur,,,,3146.22,,,,,927,26.7793728,75.8280431,
+471,HOTEL CHITRAKATHA JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,469,26.9163549,75.7959152,
+472,SURYAA VILLA JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,193,26.9006218,75.821393,
+473,ALSISAR HAVELI JAIPUR,Jaipur,Jaipur,,,,3970.23,,,,,1334,26.9228227,75.8053469,
+474,THE WALL STREET BUSINESS HOTEL JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,347,26.9176807,75.8116302,
+475,BLUE BEDS JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,184,26.9024769,75.79427,
+476,KK ROYAL HOTEL & CONVENTION CENTER JAIPUR,Jaipur,Jaipur,,,,3370.95,,,,,745,26.9901831,75.8649365,
+477,NIRWANA HOMETEL JAIPUR A SAROVAR HOTEL JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,449,26.9211704,75.794891,
+478,MOUSTACHE HOSTEL JAIPUR ,Jaipur,Jaipur,,,,973.83,,,,,678,26.9195383,75.7978272,
+479,HOTEL MEGHNIWAS JAIPUR,Jaipur,Jaipur,,,,2846.58,,,,,658,26.930205,75.7881644,
+480,"LEMON TREE PREMIER, JAIPUR",Jaipur,Jaipur,,,,2846.58,,,,,2281,26.9351975,75.7915031,
+481,MANDAWA HAVELI JAIPUR,Jaipur,Jaipur,,,,2472.03,,,,,408,26.9224954,75.805494,
+482,HOTEL SUNDER PALACE-A HERITAGE STYLED BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,973.83,,,,,1312,26.9168807,75.7951732,
+483,LORDS PLAZA JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,682,26.9090308,75.8151314,
+484,HOTEL MOON LIGHT PALACE JAIPUR,Jaipur,Jaipur,,,,599.28,,,,,530,26.9150958,75.778611,
+485,HOTEL METROPOLITAN JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,133,26.9240465,75.7995771,
+486,DEVRAJ NIWAS (STAY WELL PLANTED) JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,268,26.921515,75.793657,
+487,LE AMOUR INN JAIPUR,Jaipur,Jaipur,,,,1423.29,,,,,267,26.8581821,75.7950953,
+488,HOTEL VIJAY NIWAS JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,130,26.9209051,75.8043145,
+489,DHULA GARH JAIPUR,Jaipur,Jaipur,,,,6666.99,,,,,200,26.9305368,76.1460763,
+490,THE RAJ PALACE JAIPUR,Jaipur,Jaipur,,,,13783.44,,,,,564,26.935455,75.833753,
+491,CLARKS INN JAIPUR,Jaipur,Jaipur,,,,1100,,,,,170,26.9334559,75.7943062,
+492,HOTEL BHARAT PALACE JAIPUR,Jaipur,Jaipur,,,,299.64,,,,,7,26.91667605,75.78966505,
+493,MAHAL KHANDELA A HERITAGE HOTEL & SPA JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,414,26.9319,75.788478,
+494,HEIWA HEAVEN THE RESORT JAIPUR,Jaipur,Jaipur,,,,6741.9,,,,,400,26.9300633,75.8849302,
+495,NIRBANA PALACE A HERITAGE HOTEL AND SPA JAIPUR,Jaipur,Jaipur,,,,2247.3,,,,,159,26.9216994,75.7947823,
+496,JAIPUR HAVELI JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,48,26.9196626,75.8246636,
+497,HOTEL LAXMI NIWAS JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,174,26.8883783,75.7694277,
+498,KALYAN HERITAGE AND PARADISE JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,96,26.8187996,75.8592398,
+499,VRISA JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,128,26.8433784,75.794634,
+500,GYPSY MONKEY JAIPUR,Jaipur,Jaipur,,,,720,,,,,120,26.9226774,75.7984322,
+501,HOTEL SUGANDH RETREAT JAIPUR,Jaipur,Jaipur,,,,599.28,,,,,204,26.9211516,75.8025678,
+502,TRIMROOMS JAIPUR MOUNT BLUE JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,21,26.9463372,75.8394325,
+503,THE HERITAGE VILLAGE RESORT JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,390,26.9230965,75.7192254,
+504,OYO 1714 HOTEL RNB CITY CENTER JAIPUR,Jaipur,Jaipur,,,,2247.3,,,,,67,26.9180815,75.79196835,
+505,SPOT ON 40724 KUKAS GUEST HOUSE JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,34,27.0088982,75.8825471,
+506,HOTEL ARCO PALACE JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,260,26.9228217,75.7993629,
+507,HATHI MAUJA JAIPUR,Jaipur,Jaipur,,,,3445.86,,,,,400,26.9958252,75.8827588,
+508,HOTEL IMPERIAL JAIPUR,Jaipur,Jaipur,,,,973.83,,,,,31,26.9159266,75.8113095,
+509,RATAN NIWAS JAIPUR,Jaipur,Jaipur,,,,524.37,,,,,105,26.9156418,75.7949142,
+510,HOTEL RAGHURAJ PALACE JAIPUR,Jaipur,Jaipur,,,,1423.29,,,,,97,26.9374675,75.8000694,
+511,HOTEL SILVER PRIDE JAIPUR,Jaipur,Jaipur,,,,1000,,,,,40,26.8525617,75.77943,
+512,BHOLA BHAWAN BED AND BREAKFAST JAIPUR,Jaipur,Jaipur,,,,2621.85,,,,,285,26.911194,75.812712,
+513,FABHOTEL SAPPHIRE INN JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,21,26.8755745,75.7499464,
+514,HOTEL POLO INN AND SUITES JAIPUR,Jaipur,Jaipur,,,,1797.84,,,,,120,26.9133776,75.8083154,
+515,HOTEL SAPPHIRE WORLD JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,70,26.8784518,75.7454227,
+516,HOTEL METRO INN JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,12,26.9178929,75.7918352,
+517,OYO 2326 HOTEL STAR PLAZA JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,40,26.9181747,75.7906055,
+518,HOTEL GRAND MAPLE JAIPUR,Jaipur,Jaipur,,,,3071.31,,,,,350,26.782621,75.841631,
+519,HOTEL GANDHARVA A GREEN HOTEL JAIPUR,Jaipur,Jaipur,,,,1648.02,,,,,234,26.9248395,75.8049566,
+520,HOTEL MUSKAN PALACE JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,128,26.9241704,75.7975225,
+521,KISHANPURA HAVELI JAIPUR,Jaipur,Jaipur,,,,1947.66,,,,,10,26.92426245,75.7465906,
+522,HOTEL GOLDEN HERITAGE JAIPUR,Jaipur,Jaipur,,,,374.55,,,,,49,26.923356,75.7921651,
+523,BANI PARK HOTEL JAIPUR,Jaipur,Jaipur,,,,224.73,,,,,133,26.924765,75.789311,
+524,REGENTA CENTRAL JAL MAHAL JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,150,26.9583617,75.84351,
+525,HOUSE OF BACKPACKERS JAIPUR,Jaipur,Jaipur,,,,299.64,,,,,53,26.918728,75.8078,
+526,KHATU HAVELI JAIPUR,Jaipur,Jaipur,,,,2621.85,,,,,244,26.9299491,75.8117547,
+527,JWALA NIKETAN JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,234,26.9199985,75.800184,
+528,JAIPUR JANTAR HOSTEL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,61,26.9196467,75.8052469,
+529,MOONLIGHT HOMESTAY & HOSTEL JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,43,26.91532537,75.77862173,
+530,HOTEL DIGGI PALACE JAIPUR,Jaipur,Jaipur,,,,6500,,,,,1111,26.9099024,75.8124713,
+531,STERLING ATHARVA JAIPUR,Jaipur,Jaipur,,,,4494.6,,,,,86,26.8797626,75.5904691,
+532,HOTEL RAYA INN JAIPUR,Jaipur,Jaipur,,,,1573.11,,,,,388,26.9212992,75.7877042,
+533,SUNRISE HEALTH RESORT JAIPUR,Jaipur,Jaipur,,,,2846.58,,,,,221,26.99454905,75.823778,
+534,TREEBO TREND WOODSVILLA SUITES JAIPUR,Jaipur,Jaipur,,,,1797.84,,,,,227,26.88978,75.808804,
+535,HOTEL VIMAL HERITAGE JAIPUR,Jaipur,Jaipur,,,,1348.38,,,,,465,26.9287399,75.785706,
+536,HOTEL SHYAM PARADISE BY TRICOLOUR HOSPITALITY JAIPUR,Jaipur,Jaipur,,,,2097.48,,,,,88,26.8954218,75.749436,
+537,HOTEL MADHUBAN JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,471,26.929385,75.7903596,
+538,HAVELI KALWARA JAIPUR,Jaipur,Jaipur,,,,2322.21,,,,,127,26.9186983,75.8128345,
+539,R4 A BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,3071.31,,,,,55,26.88521075,75.79055785,
+540,GOLDEN HOTEL JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,290,26.9219665,75.7978807,
+541,VILLA 243 JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,83,26.888395,75.7660865,
+542,HOTEL HAYAT RABBANI JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,177,26.9246312,75.7971233,
+543,DOONGRI HAVELI JAIPUR,Jaipur,Jaipur,,,,973.83,,,,,47,26.9189531,75.8132255,
+544,JAIPUR HOTEL NEW JAIPUR,Jaipur,Jaipur,,,,1573.11,,,,,43,26.9293887,75.81380235,
+545,NANUS HOSTEL JAIPUR,Jaipur,Jaipur,,,,449.46,,,,,73,26.9246655,75.7898738,
+546,TGI APPLE INN JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,82,26.8913112,75.7426438,
+547,RUDRA VILAS JAIPUR,Jaipur,Jaipur,,,,2300,,,,,400,26.8337249,75.7676625,
+548,RAJ KOTHI JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,37,26.8489522,75.8042995,
+549,LOFT 24 JAIPUR,Jaipur,Jaipur,,,,1573.11,,,,,15,26.8723677,75.7467919,
+550,OYO 68571 NAHARGARH PALACE HOTEL JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,51,26.9348686,75.8171855,
+551,FABHOTEL THE ROYAL CM PLAZA JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,46,26.932526,75.78736,
+552,CASTLE KANOTA JAIPUR,Jaipur,Jaipur,,,,2546.94,,,,,500,26.872221,75.9495004,
+553,CAMELLIA A BOUTIQUE HOME JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,300,26.9033695,75.7771034,
+554,WELCOMHERITAGE SIRSI HAVELI JAIPUR,Jaipur,Jaipur,,,,2247.3,,,,,78,26.9096981,75.6791797,
+555,THE HERITAGE PALACE JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,113,26.90709035,75.79316395,
+556,CLARION INN JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,300,27.0302669,75.8950795,
+557,HOTEL THE LIVIN (LUXURY BOUTIQUE HOTEL) JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,243,26.939159,75.796813,
+558,PINK PEARL RESORT AND FUNCITY JAIPUR,Jaipur,Jaipur,,,,1797.84,,,,,139,26.860591,75.6686362,
+559,SNEH DEEP GUEST HOUSE JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,119,26.904157,75.840226,
+560,HOTEL LAVANYA HERITAGE JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,30,26.9208263,75.7959528,
+561,TREEBO TREND GUMAAN AUBERGE JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,80,26.926774,75.791655,
+562,HOSTEL KARWAAN JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,90,26.903018,75.779765,
+563,HERITAGE KHANDWA HAVELI HOTEL JAIPUR,Jaipur,Jaipur,,,,2996.4,,,,,103,26.9440152,75.773806,
+564,HOTEL GULAB GARH JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,39,26.933858,75.8342236,
+565,THE ASHAPURNA JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,142,26.93597,75.798949,
+566,THE UMAID VILAS JAIPUR,Jaipur,Jaipur,,,,4569.51,,,,,1001,26.9205,75.820409,
+567,JAIPUR SUNDECK HOSTEL JAIPUR,Jaipur,Jaipur,,,,244,,,,,7,26.897126,75.767309,
+568,HOTEL ABHINEET PALACE JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,40,26.9181555,75.791046,
+569,HOTEL KRISHNA JAIPUR,Jaipur,Jaipur,,,,3970.23,,,,,22,26.9044535,75.79195545,
+570,OYO 1143 HOTEL RDB PALACE JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,130,26.924929,75.787572,
+571,ABHI ROOMS JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,8,26.9080591,75.8316761,
+572,HOTEL MAYAA MANSION JAIPUR,Jaipur,Jaipur,,,,950,,,,,150,26.9169447,75.8039693,
+573,HOTEL HAWA MAHAL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,105,26.911811,75.787074,
+574,LA PREMIER SPA & RESORT JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,65,26.97475181,75.87208766,
+575,HOTEL NANGI'S PRIDE JAIPUR,Jaipur,Jaipur,,,,1648.02,,,,,52,26.8361265,75.8039433,
+576,THE T T PALACE JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,36,26.9360642,75.8345998,
+577,JAIPUR CM A LUXURY BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,246,26.9365543,75.7900159,
+578,HOTEL PARADISE JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,345,26.9479593,75.7734752,
+579,CHITCHAT RESTAURANT & GUEST HOUSE JAIPUR,Jaipur,Jaipur,,,,224.73,,,,,72,26.92507148,75.78949732,
+580,HOTEL SUMADITYA JAIPUR,Jaipur,Jaipur,,,,1423.29,,,,,16,26.943674,75.7736854,
+581,UMAID FARM RESORT-A LEGACY VINTAGE STAY IN JAIPUR,Jaipur,Jaipur,,,,112365,,,,,3000,27.061794,75.7496261,
+582,THE AMER VALLEY JAIPUR,Jaipur,Jaipur,,,,749.1,,,,,50,26.9633884,75.8462509,
+583,HOTEL WHISPERING PALMS JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,64,26.9701593,75.7734073,
+584,HOTEL THE ORION JAIPUR,Jaipur,Jaipur,,,,599.28,,,,,63,26.9265653,75.7900734,
+585,ASHOK JAIPUR,Jaipur,Jaipur,,,,3221.13,,,,,70,26.9258482,75.7942305,
+586,FABHOTEL VILLA JAIPUR VAISHALI JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,15,26.910968,75.746081,
+587,KESAR D VILLA JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,17,26.8484246,75.8012327,
+588,HOTEL JAISINGH PALACE JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,98,26.9186404,75.8069102,
+589,OYO 2105 HOTEL ROYAL SHERATON JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,101,26.9304561,75.8283867,
+590,HOTEL SURYA GARH JAIPUR,Jaipur,Jaipur,,,,3069,,,,,100,26.9368736,75.8461842,
+591,JAGRATI ANANTA EXPRESS JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,150,26.8304731,75.7758327,
+592,PADLIA HOUSE JAIPUR,Jaipur,Jaipur,,,,2172.39,,,,,14,26.905382,75.780854,
+593,BLUE KING (RTDC) JAIPUR,Jaipur,Jaipur,,,,1123.65,,,,,18,26.9294762,75.7935341,
+594,FABHOTEL PADMAVATI PALACE JAIPUR,Jaipur,Jaipur,,,,2097.48,,,,,1,26.880348,75.7514803,
+595,NILAYA JAIPUR,Jaipur,Jaipur,,,,3000,,,,,320,26.914931,75.7482946,
+596,VIDYA VILLA JAIPUR,Jaipur,Jaipur,,,,2846.58,,,,,26,26.9516128,75.7581643,
+597,HOTEL BIKANER HAVELI JAIPUR,Jaipur,Jaipur,,,,2022.57,,,,,100,26.9407407,75.8364063,
+598,OYO 15359 HOTEL KANCHANDEEP JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,103,26.9207086,75.8011211,
+599,JAIPUR HOME STAY JAIPUR,Jaipur,Jaipur,,,,1048.74,,,,,23,26.9164624,75.7641279,
+600,RAJ RAJESHWARI HAVELI JAIPUR,Jaipur,Jaipur,,,,4045.14,,,,,300,26.924492,75.7528311,
+601,HOTEL KONARK JAIPUR,Jaipur,Jaipur,,,,1273.47,,,,,119,26.9251192,75.8026781,
+602,BRANSON BACKPACKER HOMESTAY JAIPUR,Jaipur,Jaipur,,,,1198.56,,,,,50,26.965494,75.754452,
+603,OYO TOWNHOUSE 051 LAL KOTHI JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,170,26.8819155,75.7987304,
+604,THE SANEER BOUTIQUE HOTEL JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,216,26.8445859,75.8011357,
+605,HOTEL LIBRA JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,184,26.9469339,75.7736639,
+606,HOTEL GANGA KRIPA JAIPUR,Jaipur,Jaipur,,,,599.28,,,,,27,26.9165079,75.7918459,
+607,AIRPORT SKY INN JAIPUR,Jaipur,Jaipur,,,,674.19,,,,,10,26.8332577,75.8066741,
+608,KHERWADI FARM JAIPUR,Jaipur,Jaipur,,,,4120.05,,,,,10,27.0494455,75.8192578,
+609,HOTEL NEELAM JAIPUR,Jaipur,Jaipur,,,,1872.75,,,,,10,26.920232,75.7990302,
+610,OYO 9304 HOTEL SWASTIKA JAIPUR,Jaipur,Jaipur,,,,1048.74,,,,,10,26.9207384,75.7968919,
+611,CLUB MAHINDRA JAIPUR,Jaipur,Jaipur,,,,4569.51,,,,,1145,26.8996137,75.7998849,
+612,JAS VILAS JAIPUR,Jaipur,Jaipur,,,,5018.97,,,,,987,26.9303494,75.7880161,
+613,ANGEL RESORT JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,102,27.066656,75.75224,
+614,OM NIWAS JAIPUR,Jaipur,Jaipur,,,,2696.76,,,,,291,26.927671,75.7859552,
+615,BUNKSTOP JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,174,26.899349,75.794642,
+616,HOTEL RAMSINGH PALACE JAIPUR,Jaipur,Jaipur,,,,824.01,,,,,161,26.9226545,75.7984315,
+617,RAWLA RAWATSTAR JAIPUR,Jaipur,Jaipur,,,,898.92,,,,,134,26.9253331,75.801462,
+618,ADHBHUT HOTEL JAIPUR,Jaipur,Jaipur,,,,4344.78,,,,,110,26.9906998,75.852642,
+619,FABHOTEL DEEPAK RESIDENCY JAIPUR,Jaipur,Jaipur,,,,1722.93,,,,,20,26.937275,75.835284,
+620,PRIDE AMBER VILAS RESORT & SPA JAIPUR,Jaipur,Jaipur,,,,4944.06,,,,,294,26.769337,75.8374233,
+621,HOTEL SAVOY JAIPUR,Jaipur,Jaipur,,,,1423.29,,,,,203,26.916303,75.8143161,
+622,HOTEL JAI MAA PALACE JAIPUR,Jaipur,Jaipur,,,,1498.2,,,,,274,26.9231678,75.7921556,
+623,THE PRIME HOTEL JAIPUR,Jaipur,Jaipur,,,,1423.29,,,,,77,26.9459207,75.8462972,
+624,COMFORT INN SAPPHIRE JAIPUR,Jaipur,Jaipur,,,,2771.67,,,,,130,26.9177602,75.8111704,
+625,HOUSETEL JAIPUR,Jaipur,Jaipur,,,,674.19,,,,,44,26.9060009,75.8021073,
+626,GIRISADAN HOMESTAY JAIPUR,Jaipur,Jaipur,,,,4494.6,,,,,238,26.9125697,75.7965289,
+627,THE HOSTELLER JAIPUR,Jaipur,Jaipur,,,,449,,,,,143,26.918242,75.799674,
+628,HOZTEL JAIPUR,Jaipur,Jaipur,,,,150,,,,,128,26.930574,75.791244,
+629,The Orchid Hotel Mumbai Vile Parle,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,4,,"6,499",,,,,5593,19.07283,72.88261,780
+630,Trident Bandra Kurla,Mumbai,Bandra Kurla Complex ,T1 - Chhatrapati Shivaji International Airport,4.6,,"8,750",,,,,4987,19.066699,72.8679472,
+631,ITC Grand Central - A Luxury Collection Hotel,Mumbai,South Mumbai ,Cooper hospital,4.5,,"14,000",,,,,2445,19.07283,72.88261,
+632,IRA By Orchid Mumbai ( VITS Mumbai),Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.9,,"5,099",,,,,4707,19.07283,72.88261,612
+633,Trident Nariman Point,Mumbai,Marine Drive ,Queen's Necklace - Marine Drive,4.6,,"11,250",,,,,5563,18.9278381,72.8211257,
+634,The Lalit Mumbai,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.1,,"11,160",,,,,6468,19.07283,72.88261,"3,000"
+635,"Ginger Mumbai, Andheri East",Mumbai,Andheri East ,T1 - Chhatrapati Shivaji International Airport,3.7,,"3,679",,,,,5340,19.1160634,72.8503185,
+636,"Taj Santacruz, Mumbai",Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,4.6,,"9,000",,,,,4563,19.0926936,72.8543969,
+637,Hotel Surya Prakash,Mumbai,Chembur,,3.9,,"3,939",,,,,121,19.07283,72.88261,968
+638,Hilton Mumbai International Airport,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.2,,"9,100",,,,,1686,19.1043696,72.8709345,
+639,Holiday Inn Mumbai International Airport,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.3,,"6,999",,,,,2744,19.07283,72.88261,
+640,goSTOPS Mumbai - Rooms & Dorms,Mumbai,South Mumbai,,3.9,,816,,,,,1376,,,211
+641,The Regale by Tunga,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4.1,,"4,427",,,,,4946,19.07283,72.88261,932
+642,"Taj Lands End, Mumbai",Mumbai,Bandra West ,Band Stand,4.5,,"11,000",,,,,4222,19.0433959,72.8195286,
+643,"Ramada Plaza By Wyndham Palm Grove, Juhu, Mumbai",Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,4.1,,"7,095",,,,,7206,19.07283,72.88261,"2,136"
+644,Sahara Star,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,4.2,,"10,400",,,,,7303,19.0956289,72.8539896,"1,872"
+645,Qubestay Airport Capsule Hostel | Rooms & Dorms,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,3.8,,"1,160",,,,,632,,,341
+646,Courtyard by Marriott Mumbai International Airport,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.3,,"7,500",,,,,1829,19.07283,72.88261,
+647,The Westin Mumbai Garden City,Mumbai,Goregaon ,T1 - Chhatrapati Shivaji International Airport,4.4,,"9,000",,,,,1431,19.1723617,72.8605305,
+648,JW Marriott Mumbai Juhu,Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,4.4,,"12,500",,,,,1731,19.1018394,72.8260472,
+649,ITC Maratha - A Luxury Collection Hotel,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.4,,"10,030",,,,,4680,19.07283,72.88261,
+650,City Stay,Mumbai,Andheri East ,T1 - Chhatrapati Shivaji International Airport,4.6,,"1,229",,,,,214,19.07283,72.88261,370
+651,JW Marriott Mumbai Sahar,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.5,,"9,500",,,,,2139,19.1031373,72.8777603,
+652,Radisson Mumbai Andheri MIDC,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4.3,,"7,000",,,,,3609,19.07283,72.88261,
+653,Sofitel Mumbai BKC- Luxury Brand by Accor,Mumbai,Bandra Kurla Complex ,T1 - Chhatrapati Shivaji International Airport,4.3,,"8,550",,,,,2276,19.07283,72.88261,"1,539"
+654,The Leela Mumbai,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.5,,"10,500",,,,,2861,19.1092433,72.8737582,
+655,Novotel Mumbai International Airport,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.4,,"8,299",,,,,102,19.07283,72.88261,
+656,Radisson Blu Mumbai International Airport,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.4,,"7,499",,,,,2166,19.1101623,72.878948,
+657,Sun-N-Sand,Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,4.2,,"8,835",,,,,2353,19.1093992,72.8241541,"2,660"
+658,The St. Regis Mumbai,Mumbai,South Mumbai ,Tata memorial cancer hospital,4.5,,"12,500",,,,,1328,18.9940932,72.8240124,
+659,Niranta Airport Transit Hotel & Lounge Terminal 2 Arrivals/Landside,Mumbai,In Mumbai Airport ,,4,,"9,303",,,,,1443,,,"2,501"
+660,"Zostel Mumbai
+Like a 3",Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4,,"1,342",,,,,738,19.07283,72.88261,285
+661,"President, Mumbai - IHCL SeleQtions",Mumbai,South Mumbai ,Queen's Necklace - Marine Drive,4.4,,"10,400",,,,,2510,19.07283,72.88261,
+662,Novotel Mumbai Juhu Beach,Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,3.6,,"8,500",,,,,2306,19.10259,72.82425,
+663,Ibis Mumbai Airport - An Accor Brand,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.6,,"6,499",,,,,1990,19.07283,72.88261,
+664,"Ginger Mumbai, Andheri (MIDC)",Mumbai,Jogeshwari East ,T2 - Chhatrapati Shivaji International Airport,3.4,,"2,624",,,,,2721,19.07283,72.88261,
+665,Lakeside Chalet Marriott Executive Apartments,Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,4.1,,"9,000",,,,,362,19.1328351,72.8997134,
+666,"Lemon Tree Hotel, Kalina, Mumbai",Mumbai,Bandra Kurla Complex ,T1 - Chhatrapati Shivaji International Airport,3.3,,"4,975",,,,,324,19.07283,72.88261,"1,806"
+667,Ramee Guestline Hotel Juhu,Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,3.6,,"5,275",,,,,3162,19.07283,72.88261,"1,430"
+668,Ramee Techome,Mumbai,Khar West ,T1 - Chhatrapati Shivaji International Airport,4,,"6,231",,,,,1173,19.07283,72.88261,"1,273"
+669,Shabana,Mumbai,Colaba ,Gateway Of India Mumbai,3.5,,"1,304",,,,,216,18.924126,72.8320891,355
+670,Hotel Bawa International,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,4,,"5,000",,,,,1817,19.07283,72.88261,
+671,"Ginger Mumbai, Goregaon",Mumbai,Goregaon ,T1 - Chhatrapati Shivaji International Airport,3.8,,"3,224",,,,,478,19.07283,72.88261,
+672,Grand Hyatt Mumbai,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,4.3,,"10,000",,,,,1855,19.0775333,72.8514445,
+673,Hotel Marine Plaza,Mumbai,Churchgate ,Queen's Necklace - Marine Drive,4.2,,"9,449",,,,,1292,18.9311659,72.8230972,"1,701"
+674,"Lemon Tree Premier, Mumbai International Airport, Mumbai",Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.2,,"3,566",,,,,5001,19.07283,72.88261,"1,294"
+675,Hotel Airport International,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.7,,"3,255",,,,,3139,19.07283,72.88261,770
+676,Dragonfly Hotel - The Art Hotel,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.5,,"3,035",,,,,906,19.07283,72.88261,935
+677,Four Seasons Hotel Mumbai,Mumbai,South Mumbai,,4.4,,"49,000",,,,,1863,18.9941181,72.8203598,
+678,Gateway Inn | Rooms in an Apartment,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.2,,"1,839",,,,,356,19.07283,72.88261,495
+679,"The Oberoi, Mumbai",Mumbai,Marine Drive ,Queen's Necklace - Marine Drive,4.7,,"16,750",,,,,876,18.9269838,72.8205846,
+680,Hotel Jyoti Dwelling,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.2,,"2,232",,,,,1539,19.07283,72.88261,456
+681,Indie Stays,Mumbai,Bandra Kurla Complex ,T1 - Chhatrapati Shivaji International Airport,3.9,,"6,975",,,,,1406,19.07283,72.88261,"1,425"
+682,Meluha - The Fern,Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,4.4,,"7,109",,,,,2189,19.11783,72.9109596,"1,911"
+683,Afra dormitory,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4.8,,848,,,,,4,19.07283,72.88261,228
+684,Hotel Airlink,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.8,,"3,204",,,,,387,19.07283,72.88261,798
+685,The Fern Goregaon,Mumbai,Goregaon ,T1 - Chhatrapati Shivaji International Airport,4.2,,"7,988",,,,,1842,19.07283,72.88261,"2,405"
+686,Mirage Hotel,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.1,,"6,126",,,,,1820,19.07283,72.88261,"1,251"
+687,"RELOhomes | 1 BHK Apartment
+Like a 4",Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,4.6,,"5,721",,,,,45,19.07283,72.88261,"1,420"
+688,Click Hotel Caliph,Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,3.3,,"4,500",,,,,834,19.07283,72.88261,
+689,HOTEL LEAFIO MARIGOLD,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.7,,"3,162",,,,,1387,19.07283,72.88261,748
+690,"Keys Select by Lemon Tree Hotels, Nestor, Mumbai",Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,3.5,,"3,623",,,,,1528,19.07283,72.88261,"1,288"
+691,Hotel Sea Princess,Mumbai,Juhu ,T1 - Chhatrapati Shivaji International Airport,4.1,,"7,952",,,,,1762,19.0931831,72.8278496,"2,138"
+692,HOTEL WEGO,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.1,,"3,495",,,,,1335,19.07283,72.88261,"1,128"
+693,Rodas - An Ecotel Hotel,Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,4.4,,"7,998",,,,,795,19.1185925,72.9116829,"2,150"
+694,The Westin Mumbai Powai Lake,Mumbai,Powai ,T2 - Chhatrapati Shivaji International Airport,4.3,,"9,000",,,,,1282,19.1344801,72.901453,
+695,Mayura Aureole Co-Living,Mumbai,Goregaon ,T1 - Chhatrapati Shivaji International Airport,4.2,,"1,496",,,,,143,19.07283,72.88261,418
+696,Sea Green Hotel,Mumbai,Churchgate ,Queen's Necklace - Marine Drive,3.8,,"4,692",,,,,1203,18.9326798,72.8237555,"1,265"
+697,ibis Mumbai Vikhroli - An Accor Brand,Mumbai,Vikhroli West ,T2 - Chhatrapati Shivaji International Airport,3.9,,"6,299",,,,,327,19.07283,72.88261,
+698,Aboo's Concord Galaxy,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.3,,"3,228",,,,,798,19.07283,72.88261,831
+699,The Paradise by Tunga,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4,,"5,864",,,,,1202,19.07283,72.88261,"1,424"
+700,Address Dormitory,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,4,,404,,,,,240,19.07283,72.88261,113
+701,Arnna Hotel - Goregaon,Mumbai,Goregaon ,T1 - Chhatrapati Shivaji International Airport,3.8,,"2,919",,,,,135,19.07283,72.88261,830
+702,Ramee Guestline Hotel - Dadar,Mumbai,South Mumbai,,4.1,,"6,814",,,,,774,19.07283,72.88261,"1,612"
+703,Hotel Metro Palace,Mumbai,Bandra West ,Band Stand,3.6,,"4,064",,,,,1167,19.0563315,72.8342536,495
+704,Hotel Manama,Mumbai,South Mumbai ,Gateway Of India Mumbai,3.5,,"3,158",,,,,1566,18.9394214,72.8384104,747
+705,Aashiyana Dormitory,Mumbai,South Mumbai ,Gateway Of India Mumbai,3.1,,630,,,,,277,18.9373119,72.8338028,176
+706,T24 Residency,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4,,"4,099",,,,,2465,19.1782901,72.8755107,
+707,"The Taj Mahal Palace, Mumbai",Mumbai,Colaba ,Gateway Of India Mumbai,4.7,,"27,000",,,,,802,18.921876,72.8330431,
+708,The Roa Hotel,Mumbai,Ghatkopar West ,T2 - Chhatrapati Shivaji International Airport,3.7,,"2,976",,,,,1300,19.07283,72.88261,608
+709,Hotel Leafio,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.5,,"2,199",,,,,1919,19.07283,72.88261,264
+710,The Byke Delotel,Mumbai,Borivali West,,3.8,,"3,183",,,,,419,19.2306853,72.8555533,903
+711,The Empresa Hotel,Mumbai,Andheri West ,T1 - Chhatrapati Shivaji International Airport,3.8,,"8,099",,,,,701,19.07283,72.88261,"1,458"
+712,HOTEL KOHINOOR PARK,Mumbai,South Mumbai ,Siddhivinayak Temple,3.8,,"3,596",,,,,592,19.07283,72.88261,"1,118"
+713,The Altruist Business Hotel (Andheri),Mumbai,Jogeshwari East ,T1 - Chhatrapati Shivaji International Airport,3.6,,"2,763",,,,,1257,19.07283,72.88261,711
+714,Hotel Parle International,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.7,,"4,836",,,,,3158,19.07283,72.88261,"1,052"
+715,Ocean Dormitory,Mumbai,Asalpha ,T2 - Chhatrapati Shivaji International Airport,3.6,,925,,,,,67,19.07283,72.88261,249
+716,Hotel Beacon T2,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,3.2,,"3,600",,,,,955,19.07283,72.88261,851
+717,Hotel Columbus,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.6,,"2,608",,,,,1401,19.07283,72.88261,567
+718,Sea Green South Hotel,Mumbai,Churchgate ,Queen's Necklace - Marine Drive,3.9,,"5,583",,,,,985,19.07283,72.88261,"1,389"
+719,Hotel Suba International,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.3,,"6,700",,,,,683,19.07283,72.88261,
+720,Classic Dormitory,Mumbai,Andheri East ,T2 - Chhatrapati Shivaji International Airport,3.8,,572,,,,,123,19.07283,72.88261,145
+721,The Resort Mumbai,Mumbai,Madh,,4.2,,"11,811",,,,,3937,19.1743671,72.7963333,"3,556"
+722,The Mirador,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.7,,"6,750",,,,,384,19.1108946,72.8605783,810
+723,The Sahil Hotel,Mumbai,South Mumbai ,Mumbai Central Bus Terminus,4.2,,"4,650",,,,,1587,18.9687431,72.8236458,"1,100"
+724,Avion Hotel,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.3,,"4,205",,,,,1154,19.07283,72.88261,"1,033"
+725,Blossom Dormitory ( For Male and Female),Mumbai,Sakinaka ,T2 - Chhatrapati Shivaji International Airport,3.6,,678,,,,,214,19.07283,72.88261,189
+726,Comfort Inn Heritage,Mumbai,South Mumbai,,3.9,,"4,743",,,,,963,19.07283,72.88261,"1,122"
+727,Hotel Planet Residency,Mumbai,Near Mumbai Airport ,T1 - Chhatrapati Shivaji International Airport,3.8,,"3,726",,,,,1064,19.07283,72.88261,"1,028"
+728,Hotel Kohinoor Elite,Mumbai,Near Mumbai Airport ,T2 - Chhatrapati Shivaji International Airport,4.1,,"7,250",,,,,2183,19.080719,72.8855891,
+729,Residency Hotel Andheri,Mumbai,Andheri East ,T1 - Chhatrapati Shivaji International Airport,4,,"4,883",,,,,1866,19.1130335,72.8445624,"1,155"
