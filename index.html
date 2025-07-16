@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trvlGenie - User Profile</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tell us about your travel preferences</h1>
+        <form action="/submit_form" method="post">
+
+            <p>Rate how much you enjoy the following experiences (0 = not at all, 1 = love it!):</p>
+            <div class="slider-group">
+                <label for="Adventure">Adventure</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Adventure" name="Adventure">
+
+                <label for="Culture">Culture</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Culture" name="Culture">
+
+                <label for="Nature">Nature</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Nature" name="Nature">
+
+                <label for="Relaxation">Relaxation</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Relaxation" name="Relaxation">
+
+                <label for="Spirituality">Spirituality</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Spirituality" name="Spirituality">
+
+                <label for="Luxury">Luxury</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Luxury" name="Luxury">
+
+                <label for="Wildlife">Wildlife</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Wildlife" name="Wildlife">
+
+                <label for="Photography">Photography</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="Photography" name="Photography">
+
+                <label for="FoodExperiences">Food Experiences</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="FoodExperiences" name="FoodExperiences">
+
+                <label for="FestivalsEvents">Festivals & Events</label>
+                <input type="range" min="0" max="1" step="0.1" value="0.5" id="FestivalsEvents" name="FestivalsEvents">
+            </div>
+
+            <p>What's your typical travel budget per trip?</p>
+            <input type="number" id="Budget" name="Budget" min="5000" max="1000000" required>
+
+            <p>How many days can you usually travel at once?</p>
+            <input type="range" min="1" max="15" value="7" id="TravelDays" name="TravelDays" oninput="updateDaysLabel()">
+            <div class="slider-label">
+                <span>1</span><span id="daysValue">7</span><span>15</span>
+            </div>
+
+            <p>What best describes your current status?</p>
+            <label><input type="radio" name="Occupation" value="Student" required> Student</label><br>
+            <label><input type="radio" name="Occupation" value="Working"> Working Professional</label><br>
+            <label><input type="radio" name="Occupation" value="Other"> Other</label><br>
+
+            <p>Preferred pace of travel:</p>
+            <label><input type="radio" name="Pace" value="Exciting" required> Jam-packed & exciting</label><br>
+            <label><input type="radio" name="Pace" value="Balanced"> Balanced mix of rest and activity</label><br>
+            <label><input type="radio" name="Pace" value="Relaxed"> Slow & relaxed</label><br>
+
+            <p>How do you usually travel? (Select all that apply)</p>
+            <label><input type="checkbox" name="TravelWith" value="Solo"> Solo</label><br>
+            <label><input type="checkbox" name="TravelWith" value="Friends"> With friends</label><br>
+            <label><input type="checkbox" name="TravelWith" value="Family"> With family</label><br>
+            <label><input type="checkbox" name="TravelWith" value="Partner"> With partner</label><br>
+            <label><input type="checkbox" name="TravelWith" value="Seniors"> With older people</label><br>
+            <label><input type="checkbox" name="TravelWith" value="Kids"> With kids</label><br>
+
+            <p>Do you have any physical constraints or accessibility needs?</p>
+            <label><input type="radio" name="Accessibility" value="Yes"> Yes</label><br>
+            <label><input type="radio" name="Accessibility" value="No"> No</label><br>
+            <textarea name="AccessibilityDetails" placeholder="Optional: Describe your needs"></textarea>
+
+            <br><br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
